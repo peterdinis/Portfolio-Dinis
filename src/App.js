@@ -1,5 +1,5 @@
 import { Switch, Route } from "react-router-dom";
-import Navbar from './components/Navbar';
+import Navbar from './components/shared/Navbar';
 import Homepage from "./pages/Homepage";
 
 function App() {
