@@ -1,4 +1,5 @@
 import React from 'react'
+import ContactInfo from '../components/contact/ContactInfo'
 import Hero from '../components/home/Hero'
 import Info from '../components/home/Info'
 import Knowledge from '../components/projects/Knowledge'
@@ -14,6 +15,7 @@ function Homepage() {
             <MyProjects />
             <TimeLine />
             <Knowledge />
+            <ContactInfo />
             <AppFooter />
         </div>
     )
