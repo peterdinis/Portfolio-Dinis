@@ -4,12 +4,12 @@ import Homepage from "./pages/Homepage";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
       <Switch>
         <Route exact path="/" component={Homepage} />
       </Switch>
-    </div>
+    </>
   );
 }
 
