@@ -9,7 +9,7 @@ function Info() {
           <div className="lg:w-4/5 mx-auto flex mt-1 flex-wrap">
             <img
               alt="me"
-              className="lg:w-1/2 w-full object-cover object-center rounded-2xl border border-gray-300"
+              className="lg:w-1/2 w-full object-cover object-center rounded-3xl border border-gray-500"
               src={logo}
             />
             <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
@@ -27,7 +27,9 @@ function Info() {
               </p>
               <p className="leading-relaxed text-3xl text-gray-700 mt-6">
                 Môj obľubený stack
+                <div className="mt-1">
                 <Images />
+                </div>
               </p>
             </div>
           </div>

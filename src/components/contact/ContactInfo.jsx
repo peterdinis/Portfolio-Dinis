@@ -9,7 +9,7 @@ function ContactInfo() {
       <div>
         <Paper elevation={3}>
           <h1 className="infoHead">Email</h1>
-          <p className="infoHead">
+          <p className="infoEmail">
             Ak ťa moja tvorba zaujala tak mi napíš na:{" "}
             <Mailto href="mailto:pdinis1@gmail.com">
               pdinis1@gmail.com

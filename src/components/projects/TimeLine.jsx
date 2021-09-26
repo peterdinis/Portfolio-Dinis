@@ -20,7 +20,7 @@ export default function TimeLine() {
               <TimelineConnector />
             </TimelineSeparator>
             <TimelineContent className="text-2xl">
-              2019-2020 (1rok) Školská knižnica projekt Unicorn React-Node-MongoDB
+              2019-2020 (1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB
             </TimelineContent>
           </TimelineItem>
           <TimelineItem>
