@@ -1,4 +1,5 @@
 import "./Hero.css";
+import LanguageChange from "../../i18n/LanguageChange";
 
 function Hero() {
   return (
@@ -10,6 +11,9 @@ function Hero() {
             <h2 className="font-bold text-4xl mb-12">
               Junior FullStack Developer
             </h2>
+            <div className="mt-2">
+              <LanguageChange />
+            </div>
           </div>
         </div>
       </div>
