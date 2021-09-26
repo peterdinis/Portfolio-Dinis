@@ -9,7 +9,7 @@ function LanguageChange() {
   const {i18n } = useTranslation();
 
   return (
-    <div>
+    <>
       {Object.keys(lngs).map((lng) => (
         <button
           className="bg-red-500 hover:bg-red-700 text-white text-3xl ml-2 font-bold py-2 px-4 rounded-2xl"
@@ -25,7 +25,7 @@ function LanguageChange() {
           {lngs[lng].nativeName}
         </button>
       ))}
-    </div>
+    </>
   );
 }
 

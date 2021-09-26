@@ -42,7 +42,7 @@ function Links() {
           <div className="w-18">
             <LinkedInIcon />
           </div>
-          <h3>LinkedIN</h3>
+          <h3>Linkedin</h3>
         </a>
       </div>
     </div>
