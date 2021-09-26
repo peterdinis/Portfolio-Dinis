@@ -46,9 +46,9 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="React-Native GroceryShop"
-          description="Jednoduchý eshop v react-native"
-          subName="React-Native Expo Styled-components Typescript"
+          name="React-Native Food APP"
+          description="Applikácia na sledovanie reštaurácií plus možnosť objednávky jedla"
+          subName="React-Native Expo Fireabse Typescript"
           link="https://github.com/peterdinis/React-Native-Grocery-App"
           firstLinkName="Github"
         />
@@ -57,7 +57,7 @@ const MyProjects = () => {
           name="React Restaurant Site"
           description="Reštaurácia FE"
           subName="React Typescript Tailwind Styled-components"
-          link="https://github.com/peterdinis/React-RestaurantSite"
+          link="https://github.com/peterdinis/RN-FoodApp"
           firstLinkName="Github"
         />
 
