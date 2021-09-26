@@ -1,21 +1,24 @@
 import Project from "./Project";
+import {useTranslation} from "react-i18next";
 
 const MyProjects = () => {
+  const {t} = useTranslation ();
+
   return (
     <div className="mt-1">
-      <h1 className="text-center mt-4 text-4xl">Moje niektoré projekty</h1>
+      <h1 className="text-center mt-4 text-4xl">{t("description.myProjects")}</h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
         <Project 
-          name="Spšt Knižnica FE"
-          description="Frontend kopia školského projektu"
+          name={t("description.projectOne")}
+          description={t("description.projectOneD")}
           subName="React React Query Styled-Components Typescript Material UI"
           link="https://github.com/peterdinis/React-SPST-Kniznica"
           firstLinkName="Github"
         />
 
         <Project 
-          name="SPŠT API"
-          description="Backend Api kopia školského projektu"
+          name={t("description.projectTwo")}
+          description={t("description.projectTwoD")}
           subName="Python Django Postgresql"
           link="https://github.com/peterdinis/SPST-Book-API"
           firstLinkName="Github"
@@ -23,7 +26,7 @@ const MyProjects = () => {
 
         <Project 
           name="React Typescript Farm Site"
-          description="Stránka pre farmu"
+          description={t("description.projectThreeD")}
           subName="React Apollo Graphql Typescript"
           link="https://github.com/peterdinis/React-ProductsFarm"
           firstLinkName="Github"
@@ -39,7 +42,7 @@ const MyProjects = () => {
         
         <Project 
           name="Snake Game"
-          description="Webová hra hadík"
+          description={t("description.projectFourD")}
           subName="Html css js"
           link="https://github.com/peterdinis/Javascript-Snake-Game"
           firstLinkName="Github"
@@ -47,7 +50,7 @@ const MyProjects = () => {
 
         <Project 
           name="React-Native Food APP"
-          description="Applikácia na sledovanie reštaurácií plus možnosť objednávky jedla"
+          description={t("description.projectFiveD")}
           subName="React-Native Expo Fireabse Typescript"
           link="https://github.com/peterdinis/React-Native-Grocery-App"
           firstLinkName="Github"
@@ -55,7 +58,7 @@ const MyProjects = () => {
 
         <Project 
           name="React Restaurant Site"
-          description="Reštaurácia FE"
+          description={t("description.projectSixD")}
           subName="React Typescript Tailwind Styled-components"
           link="https://github.com/peterdinis/RN-FoodApp"
           firstLinkName="Github"
@@ -63,7 +66,7 @@ const MyProjects = () => {
 
         <Project 
           name="Laravel Restaurant api"
-          description="API pre reštauráciu"
+          description={t("description.projectSevenD")}
           subName="Php laravel Postgresql"
           link="https://github.com/peterdinis/Laravel-Restaurant-API"
           firstLinkName="Github"
