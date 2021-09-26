@@ -4,7 +4,7 @@ const MyProjects = () => {
   return (
     <div className="mt-1">
       <h1 className="text-center mt-4 text-4xl">Moje niektoré projekty</h1>
-      <div className="mt-5 px-10 grid grid-cols-4 gap-4">
+      <div className="mt-6 px-10 grid grid-cols-4 gap-4">
         <Project 
           name="Spšt Knižnica FE"
           description="Frontend kopia školského projektu"
