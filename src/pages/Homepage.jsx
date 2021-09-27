@@ -9,7 +9,7 @@ import AppFooter from "../components/shared/AppFooter";
 
 function Homepage() {
     return (
-        <div>
+        <>
             <Hero />
             <Info />
             <MyProjects />
@@ -17,7 +17,7 @@ function Homepage() {
             <Knowledge />
             <ContactInfo />
             <AppFooter />
-        </div>
+        </>
     )
 }
 
