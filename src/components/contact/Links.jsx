@@ -15,7 +15,7 @@ function Links() {
           <div className="w-18">
             <FacebookIcon />
           </div>
-          <h3>Facebook</h3>
+          <h3 className="mt-2">Facebook</h3>
         </a>
         <a
           href="https://www.instagram.com/petodinis/"
@@ -24,7 +24,7 @@ function Links() {
           <div className="w-18">
             <InstagramIcon />
           </div>
-          <h3>Instagram</h3>
+          <h3 className="mt-2">Instagram</h3>
         </a>
         <a
           href="https://github.com/peterdinis"
@@ -33,7 +33,7 @@ function Links() {
           <div className="w-18">
             <GitHubIcon />
           </div>
-          <h3>Github</h3>
+          <h3 className="mt-2">Github</h3>
         </a>
         <a
           href="https://www.linkedin.com/in/peter-dinis-58520b214/"
@@ -42,7 +42,7 @@ function Links() {
           <div className="w-18">
             <LinkedInIcon />
           </div>
-          <h3>Linkedin</h3>
+          <h3 className="mt-2">LinkedIn</h3>
         </a>
       </div>
     </div>
