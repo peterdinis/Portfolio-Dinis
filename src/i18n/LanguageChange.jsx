@@ -22,7 +22,7 @@ function LanguageChange() {
             i18n.changeLanguage(lng);
           }}
         >
-          {lngs[lng].nativeName}
+          <p>{lngs[lng].nativeName}</p>
         </button>
       ))}
     </>

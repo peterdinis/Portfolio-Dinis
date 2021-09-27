@@ -1,3 +1,4 @@
 .main {
-    background-image: radial-gradient(ellipse, #0000, #0007),linear-gradient(0deg, rgba(255, 196, 47, 0.582), rgba(151, 114, 21, 0.333)), url("../../images/images.jpeg");
+    background-image: radial-gradient(ellipse, #0000, #0007),linear-gradient(0deg, rgba(255, 196, 47, 0.582), rgba(151, 114, 21, 0.333)), 
+    url("../../images/images.jpeg");
 }
