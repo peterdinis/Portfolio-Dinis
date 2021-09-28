@@ -51,8 +51,8 @@ const MyProjects = () => {
         <Project 
           name="React-Native Food APP"
           description={t("description.projectFiveD")}
-          subName="React-Native Expo Fireabse Typescript"
-          link="https://github.com/peterdinis/React-Native-Grocery-App"
+          subName="React-Native Expo Fireabse Typescript Status(Work in progress)"
+          link="https://github.com/peterdinis/React-Native-FoodApp"
           firstLinkName="Github"
         />
 
