@@ -7,6 +7,7 @@ import TimelineDot from "@material-ui/lab/TimelineDot";
 import { Paper } from "@material-ui/core";
 import { useStyles } from "./styles";
 import {useTranslation} from "react-i18next";
+import HelperModal from "../shared/HelperModal";
 
 export default function TimeLine() {
   const {t} = useTranslation ();
@@ -23,6 +24,7 @@ export default function TimeLine() {
             </TimelineSeparator>
             <TimelineContent className="text-2xl">
             {t("description.workOne")}
+            <HelperModal />
             </TimelineContent>
           </TimelineItem>
           <TimelineItem>
