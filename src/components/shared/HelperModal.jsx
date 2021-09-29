@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles, createStyles } from "@material-ui/core/styles";
 import Modal from "@material-ui/core/Modal";
+import {useTranslation} from "react-i18next";
 
 function rand() {
   return Math.round(Math.random() * 20) - 10;
@@ -31,10 +32,10 @@ const useStyles = makeStyles((theme) =>
 );
 
 export default function SimpleModal() {
+  const {t} = useTranslation ();
   const classes = useStyles();
-  // getModalStyle is not a pure function, we roll the style only on the first render
-  const [modalStyle] = React.useState(getModalStyle);
-  const [open, setOpen] = React.useState(false);
+  const [modalStyle] = useState(getModalStyle);
+  const [open, setOpen] = useState(false);
 
   const handleOpen = () => {
     setOpen(true);
@@ -46,10 +47,9 @@ export default function SimpleModal() {
 
   const body = (
     <div style={modalStyle} className={classes.paper}>
-      <h2 className="text-3xl" id="simple-modal-title">Čo je uuapp</h2>
+      <h2 className="text-3xl" id="simple-modal-title">{t("description.uuappHeader")}</h2>
       <p className="mt-4 text-2xl font-bold" id="simple-modal-description">
-        Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a škola ktorú som naštevoval sa prihlásila. Za pomoci ich frameworku sme mali vytvoriť stránku. 
-        Ich framework je postavený na princípe React Node Mongodb(Upravená verzia)
+        {t("description.uuappText")}
       </p>
     </div>
   );

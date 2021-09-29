@@ -34,7 +34,9 @@ i18n
             workTwo: "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
-            emailInfo: "If you are interested in my work, write to me at"
+            emailInfo: "If you are interested in my work, write to me at",
+            uuappHeader: "What is uuapp",
+            uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework, we had to create a page. Their framework is based on the principle of Responding Node Mongodb (Modified version)"
           }
         }
       },
@@ -61,7 +63,9 @@ i18n
             workTwo: "(3-týždne) Erazmus Firma Think Easy React.js",
             workThree: "(3-Mesiace) Firma Think Easy React.js Typescript",
             knowledge: "Moje znalosti",
-            emailInfo: "Ak ťa moja tvorba zaujala tak mi napíš na"
+            emailInfo: "Ak ťa moja tvorba zaujala tak mi napíš na",
+            uuappHeader: "Čo je uuapp",
+            uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich rámca sme mali vytvoriť stránku.Ich framework je postavený na princípe Reagovať Node Mongodb (Upravená verzia)"
           }
         }
       }
