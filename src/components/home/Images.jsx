@@ -27,8 +27,8 @@ function Images() {
           className="w-18"
         />
         <img
-          src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png"
-          alt="Python Django"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png"
+          alt="Asp.Net"
           className="w-18"
         />
         <img
