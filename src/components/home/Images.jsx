@@ -42,8 +42,8 @@ function Images() {
           className="w-18"
         />
         <img
-          src="https://e7.pngegg.com/pngimages/718/7/png-clipart-user-interface-design-figma-computer-software-user-experience-design-web-design-user-interface-design.png"
-          alt="Figma"
+          src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg"
+          alt="Python"
           className="w-18"
         />
       </div>
