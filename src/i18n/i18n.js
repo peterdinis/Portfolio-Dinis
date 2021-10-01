@@ -57,7 +57,7 @@ i18n
             projectFourD: "Webová hra hadík",
             projectFiveD: "Aplikácia na sledovanie reštaurácií plus možnosť objednávky jedla",
             projectSixD: "Pridanie obľubených fotiek plus prihlásenie/registrácia/profil",
-            projectSevenD: "Crud fotky + prihlásenie/registrácia/profil",
+            projectSevenD: "Crud operácie na fotografie a funkčné prihlásenie/registrácia/profil",
             work: "Moje pracovné skúsenosti",
             workOne: "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-týždne) Erazmus Firma Think Easy React.js",
