@@ -57,7 +57,7 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="React Restaurant Site"
+          name="React PhotoBookFE"
           description={t("description.projectSixD")}
           subName="React Typescript Tailwind Styled-components"
           link="https://github.com/peterdinis/RN-FoodApp"
@@ -65,7 +65,7 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="Laravel Restaurant api"
+          name="Asp.Net Photobook apis"
           description={t("description.projectSevenD")}
           subName="Php laravel Postgresql"
           link="https://github.com/peterdinis/Laravel-Restaurant-API"
