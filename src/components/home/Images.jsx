@@ -42,7 +42,7 @@ function Images() {
           className="w-18"
         />
         <img
-          src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg"
+          src="https://logosrated.net/wp-content/uploads/parser/Python-Logo-1.png"
           alt="Python"
           className="w-18"
         />
