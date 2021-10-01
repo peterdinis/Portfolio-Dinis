@@ -59,7 +59,7 @@ const MyProjects = () => {
         <Project 
           name="React PhotoBookFE"
           description={t("description.projectSixD")}
-          subName="React Typescript Tailwind Styled-components"
+          subName="React Typescript Tailwind Status(Work in progress)"
           link="https://github.com/peterdinis/RN-FoodApp"
           firstLinkName="Github"
         />
@@ -67,7 +67,7 @@ const MyProjects = () => {
         <Project 
           name="Asp.Net Photobook apis"
           description={t("description.projectSevenD")}
-          subName="Php laravel Postgresql"
+          subName="Asp.Net C# Status(Work in progress)"
           link="https://github.com/peterdinis/Laravel-Restaurant-API"
           firstLinkName="Github"
         />
