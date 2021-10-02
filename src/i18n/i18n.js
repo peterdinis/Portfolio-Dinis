@@ -31,7 +31,7 @@ i18n
             projectSevenD: "Crud photos plus full authentication",
             work: "My work experience",
             workOne: "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
-            workTwo: "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB",
+            workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             emailInfo: "If you are interested in my work, write to me at",
