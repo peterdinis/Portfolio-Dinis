@@ -36,7 +36,7 @@ i18n
             knowledge: "My knowledge",
             emailInfo: "If you are interested in my work, write to me at",
             uuappHeader: "What is uuapp",
-            uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework, we had to create a page. Their framework is based on the principle of Responding Node Mongodb (Modified version)"
+            uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)"
           }
         }
       },
@@ -65,7 +65,7 @@ i18n
             knowledge: "Moje znalosti",
             emailInfo: "Ak ťa moja tvorba zaujala tak mi napíš na",
             uuappHeader: "Čo je uuapp",
-            uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich rámca sme mali vytvoriť stránku.Ich framework je postavený na princípe Reagovať Node Mongodb (Upravená verzia)"
+            uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)"
           }
         }
       }
