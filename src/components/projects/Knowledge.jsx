@@ -99,6 +99,11 @@ export default function Knowledge() {
           </div>
 
           <div className="mt-2">
+            <Skill name="NextJs" status="Mierne pokročilý" />
+            <BorderLinearProgress variant="determinate" value={80} />
+          </div>
+
+          <div className="mt-2">
             <Skill name="React Redux" status="Pokročilý" />
             <BorderLinearProgress variant="determinate" value={80} />
           </div>
