@@ -49,18 +49,18 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="React-Native Food APP"
-          description={t("description.projectFiveD")}
-          subName="React-Native Expo Fireabse Typescript Status(Work in progress)"
+          name="React PhotoBookFE"
+          description={t("description.projectSixD")}
+          subName="React Typescript Tailwind Status(Work in progress)"
           link="https://github.com/peterdinis/RN-FoodApp"
           firstLinkName="Github"
         />
 
         <Project 
-          name="React PhotoBookFE"
-          description={t("description.projectSixD")}
-          subName="React Typescript Tailwind Status(Work in progress)"
-          link="https://github.com/peterdinis/RN-FoodApp"
+          name="Simple BookStore Admin Dashboard"
+          description={t("description.sevenDesc")}
+          subName="Html Css JS(Crud)"
+          link="https://github.com/peterdinis/Simple-Dashboard"
           firstLinkName="Github"
         />
 
