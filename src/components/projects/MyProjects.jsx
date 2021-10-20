@@ -31,12 +31,12 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/React-ProductsFarm"
           firstLinkName="Github"
         />
-
+        
         <Project 
-          name="Graphql Python Farm site api"
-          description="Farm API"
-          subName="Python graphql"
-          link="https://github.com/peterdinis/Django-Graphql-API"
+          name="DevBOOK"
+          description={t("description.newProject")}
+          subName="React Firebase"
+          link="https://github.com/peterdinis/Dev-Book-React"
           firstLinkName="Github"
         />
         
