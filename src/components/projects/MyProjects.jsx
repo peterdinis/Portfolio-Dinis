@@ -65,7 +65,7 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="Asp.Net Photobook apis"
+          name="Asp.Net Photobook api"
           description={t("description.projectSevenD")}
           subName="Asp.Net C# Status(Work in progress)"
           link="https://github.com/peterdinis/Laravel-Restaurant-API"

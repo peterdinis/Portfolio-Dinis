@@ -26,7 +26,17 @@ export default function TimeLine() {
             {t("description.workOne")}
             <HelperModal />
             </TimelineContent>
-          </TimelineItem>
+            </TimelineItem>
+          {/* <TimelineItem>
+            <TimelineSeparator>
+              <TimelineDot color="secondary" />
+              <TimelineConnector />
+            </TimelineSeparator>
+            <TimelineContent className="text-2xl">
+            Firma Inver Full Stack
+            <HelperModal />
+            </TimelineContent>
+          </TimelineItem> */}
           <TimelineItem>
             <TimelineSeparator>
               <TimelineDot color="secondary" />
