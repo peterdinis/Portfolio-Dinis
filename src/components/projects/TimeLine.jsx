@@ -52,7 +52,7 @@ export default function TimeLine() {
           <TimelineDot />
         </TimelineSeparator>
         <TimelineContent className="text-2xl">
-          {t("description.newCompany")} 
+          {t("description.newCompany")} - 2.11
         </TimelineContent>
       </TimelineItem>
     </Timeline>
