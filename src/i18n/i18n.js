@@ -16,7 +16,7 @@ i18n
         translation: {
           description: {
             aboutMe: "A few sentences about me",
-            firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov. I also tried it at the university in Žilina, but it didn't work out there. Department of Informatics. My interests include football, volleyball. I am currently looking for a job and I am open to all offers.",
+            firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
             secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
@@ -48,7 +48,7 @@ i18n
         translation: {
           description: {
             aboutMe: "Pár viet o mne",
-            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal. Akutálne si hľadám prácu a som otvorený všetkých ponukám.",
+            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
             myProjects: "Niektoré moje projekty",
