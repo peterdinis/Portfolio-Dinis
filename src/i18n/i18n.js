@@ -16,8 +16,8 @@ i18n
         translation: {
           description: {
             aboutMe: "A few sentences about me",
-            firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Priemyslovka in Bardejov. I also tried it at the university in Žilina, but it didn't work out there. Department of Informatics. My interests include football, volleyball. I am currently looking for a job and I am open to all offers.",
-            secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.I would like to work as a Frontend developer or as a backend developer in the future.",
+            firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov. I also tried it at the university in Žilina, but it didn't work out there. Department of Informatics. My interests include football, volleyball. I am currently looking for a job and I am open to all offers.",
+            secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
             projectOne: "Spst Library FE",
@@ -37,6 +37,7 @@ i18n
             emailInfo: "If you are interested in my work, write to me at",
             uuappHeader: "What is uuapp",
             newProject: "Facebook for developers",
+            newCompany: "Inver s.r.o FullStack developer",
             sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)"
           }
@@ -47,8 +48,8 @@ i18n
         translation: {
           description: {
             aboutMe: "Pár viet o mne",
-            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Priemyslovku v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal. Akutálne si hľadám prácu a som otvorený všetkých ponukám.",
-            secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.Rád by som v budúcnosti pracoval ako Frontend vývojár alebo ako backend vývojár.",
+            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal. Akutálne si hľadám prácu a som otvorený všetkých ponukám.",
+            secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
             myProjects: "Niektoré moje projekty",
             projectOne: "Spšt Knižnica FE",
@@ -68,6 +69,7 @@ i18n
             emailInfo: "Ak ťa moja tvorba zaujala tak mi napíš na",
             uuappHeader: "Čo je uuapp",
             newProject: "Facebook fre vývojárov",
+            newCompany: "Inver s.r.o FullStack developer",
             uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
             sevenDesc: "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky"
           }
