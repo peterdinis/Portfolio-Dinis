@@ -25,10 +25,10 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="React Typescript Farm Site"
+          name="DevBook API"
           description={t("description.projectThreeD")}
-          subName="React Apollo Graphql Typescript"
-          link="https://github.com/peterdinis/React-ProductsFarm"
+          subName="Node Typescript Postgresql Mongoose"
+          link="https://github.com/peterdinis/Dev-Book-API"
           firstLinkName="Github"
         />
         
