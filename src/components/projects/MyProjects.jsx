@@ -27,7 +27,7 @@ const MyProjects = () => {
         <Project 
           name="DevBook API"
           description={t("description.projectThreeD")}
-          subName="Node Typescript Postgresql Mongoose"
+          subName="Node Typescript Postgresql Prisma"
           link="https://github.com/peterdinis/Dev-Book-API"
           firstLinkName="Github"
         />
