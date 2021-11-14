@@ -10,7 +10,7 @@ i18n
     fallbackLng: 'sk',
     interpolation: {
       escapeValue: false,
-    },
+     },
     resources: {
       en: {
         translation: {
