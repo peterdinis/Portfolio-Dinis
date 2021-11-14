@@ -1,24 +1,12 @@
 import { useState } from "react";
 import { Paper, Box } from "@material-ui/core";
-import { BorderLinearProgress, useStyles } from "./styles";
+import { BorderLinearProgress, useStyles, style } from "./styles";
 import Skill from "./Skill";
 import Modal from "@material-ui/core/Modal";
 import Backdrop from "@material-ui/core/Backdrop";
 import Fade from "@material-ui/core/Fade";
 import "./Knowledge.css";
 import {useTranslation} from "react-i18next";
-
-const style = {
-  position: "absolute",
-  top: "50%",
-  left: "50%",
-  transform: "translate(-50%, -50%)",
-  width: 400,
-  bgcolor: "background.paper",
-  border: "2px solid #000",
-  boxShadow: 24,
-  p: 4,
-};
 
 export default function Knowledge() {
   const classes = useStyles();
