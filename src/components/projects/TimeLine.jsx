@@ -51,9 +51,9 @@ export default function TimeLine() {
             <TimelineSeparator>
               <TimelineDot />
             </TimelineSeparator>
-            <TimelineContent className="text-2xl">
+            {/* <TimelineContent className="text-2xl">
               {t("description.newCompany")}
-            </TimelineContent>
+            </TimelineContent> */}
           </TimelineItem>
         </Timeline>
       </Paper>

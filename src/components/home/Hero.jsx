@@ -9,7 +9,7 @@ function Hero() {
           <div className="mx-4 text-center shadow-inner opacity-90 text-white mb-36">
             <h1 className="font-bold text-8xl mb-4">Peter Dinis</h1>
             <h2 className="font-bold text-4xl mb-12">
-              Junior Developer in Inver s.r.o.
+              Junior fullStack developer
             </h2>
             <div className="mt-2">
               <LanguageChange />
