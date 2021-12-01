@@ -47,7 +47,7 @@ export default function SimpleModal() {
 
   const body = (
     <div style={modalStyle} className={classes.paper}>
-      <h2 className="text-3xl" id="simple-modal-title">{t("description.uuappHeader")}</h2>
+      <h2 className="text-3xl text-red-700 text-center" id="simple-modal-title">{t("description.uuappHeader")}</h2>
       <p className="mt-4 text-2xl font-bold" id="simple-modal-description">
         {t("description.uuappText")}
       </p>

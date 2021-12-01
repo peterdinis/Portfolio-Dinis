@@ -51,7 +51,7 @@ export default function Knowledge() {
               <Box sx={style}>
                 <p className="infoText">
                   Mierne pokročilý - Pre-intermediate, <br />
-                  Učím sa: I'm learning
+                  Učím sa - I'm learning
                 </p>
               </Box>
             </Fade>
