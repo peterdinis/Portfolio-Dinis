@@ -27,16 +27,16 @@ const MyProjects = () => {
         <Project 
           name="DevBook API"
           description={t("description.projectThreeD")}
-          subName="Node Typescript Postgresql Prisma"
-          link="https://github.com/peterdinis/Dev-Book-API"
+          subName="Asp.net Sqlite"
+          link="https://github.com/peterdinis/SocialSite-API"
           firstLinkName="Github"
         />
         
         <Project 
           name="DevBOOK"
           description={t("description.newProject")}
-          subName="React Firebase"
-          link="https://github.com/peterdinis/Dev-Book-React"
+          subName="React Typescript Tailwind"
+          link="https://github.com/peterdinis/SocialSite-React"
           firstLinkName="Github"
         />
         
@@ -51,7 +51,7 @@ const MyProjects = () => {
         <Project 
           name="React PhotoBookFE"
           description={t("description.projectSixD")}
-          subName="React Typescript Tailwind Status(Work in progress)"
+          subName="React Typescript Tailwind"
           link="https://github.com/peterdinis/RN-FoodApp"
           firstLinkName="Github"
         />
@@ -59,7 +59,7 @@ const MyProjects = () => {
         <Project 
           name="Simple BookStore Admin Dashboard"
           description={t("description.sevenDesc")}
-          subName="Html Css JS(Crud)"
+          subName="Html Css JS"
           link="https://github.com/peterdinis/Simple-Dashboard"
           firstLinkName="Github"
         />
@@ -67,7 +67,7 @@ const MyProjects = () => {
         <Project 
           name="Asp.Net Photobook api"
           description={t("description.projectSevenD")}
-          subName="Asp.Net C# Status(Work in progress)"
+          subName="Asp.Net C#"
           link="https://github.com/peterdinis/Laravel-Restaurant-API"
           firstLinkName="Github"
         />
