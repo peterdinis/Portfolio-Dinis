@@ -25,18 +25,10 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="DevBook API"
-          description={t("description.projectThreeD")}
-          subName="Asp.net Sqlite"
-          link="https://github.com/peterdinis/SocialSite-API"
-          firstLinkName="Github"
-        />
-        
-        <Project 
           name="DevBOOK"
           description={t("description.newProject")}
-          subName="React Typescript Tailwind"
-          link="https://github.com/peterdinis/SocialSite-React"
+          subName="React Typescript Tailwind Asp.net Sqlite"
+          link="https://github.com/peterdinis/Social-Site-Asp.net-React"
           firstLinkName="Github"
         />
         
