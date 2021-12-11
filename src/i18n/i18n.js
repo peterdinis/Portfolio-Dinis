@@ -38,6 +38,9 @@ i18n
             uuappHeader: "What is uuapp",
             newProject: "Simple social site",
             newCompany: "Inver s.r.o",
+            newProjectOne: "Simple e-commerce application in node",
+            newProjectTwo: "Client for foodStore e-commerce app",
+            newProjectThree: "API for foodStore e-commerce app",
             sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)"
           }
@@ -51,7 +54,10 @@ i18n
             firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
+            newProjectOne: "Jednoduchá e-commerce aplikácia v node",
             myProjects: "Niektoré moje projekty",
+            newProjectTwo: "Frontend k e-commerce-app",
+            newProjectThree: "Api k e-commerce-app",
             projectOne: "Spšt Knižnica FE",
             projectOneD: "Frontend kopia školského projektu",
             projectTwo: "SPŠT API",

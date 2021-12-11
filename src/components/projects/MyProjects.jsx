@@ -39,15 +39,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Javascript-Snake-Game"
           firstLinkName="Github"
         />
-
-        <Project 
-          name="React PhotoBookFE"
-          description={t("description.projectSixD")}
-          subName="React Typescript Tailwind"
-          link="https://github.com/peterdinis/RN-FoodApp"
-          firstLinkName="Github"
-        />
-
         <Project 
           name="Simple BookStore Admin Dashboard"
           description={t("description.sevenDesc")}
@@ -56,13 +47,29 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
-          name="Asp.Net Photobook api"
-          description={t("description.projectSevenD")}
-          subName="Asp.Net C#"
-          link="https://github.com/peterdinis/Laravel-Restaurant-API"
+        <Project
+          name="Node Pizza Store"
+          description={t("description.newProjectOne")}
+          subName="Node Typscript Ejs Tailwind"
           firstLinkName="Github"
+          link="https://github.com/peterdinis/Node-Pizzas-App"
         />
+
+        <Project 
+          name="Food Store Client" 
+          description={t("description.newProjectTwo")}
+          subName="React Redux Typescript Tailwind"
+          firstLinkName="Github"
+          link="https://github.com/peterdinis/Food-Client"
+          />
+
+<Project 
+          name="Food Store API" 
+          description={t("description.newProjectThree")}
+          subName="Asp.Net Sqlite"
+          firstLinkName="Github"
+          link="https://github.com/peterdinis/Food-API"
+          />
       </div>
     </div>
   );

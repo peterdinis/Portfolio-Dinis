@@ -27,8 +27,8 @@ function Images() {
           className="w-18"
         />
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
-          alt="Laravel"
+          src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
+          alt="Asp.Net"
           className="w-18"
         />
         <img
