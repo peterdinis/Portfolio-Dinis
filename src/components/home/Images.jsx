@@ -42,8 +42,8 @@ function Images() {
           className="w-18"
         />
         <img
-          src="https://logosrated.net/wp-content/uploads/parser/Python-Logo-1.png"
-          alt="Python"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16fcuheeaR0AgEcn8HcpDRTph6P59RTm0Sg&usqp=CAU"
+          alt="Goolang"
           className="w-18"
         />
       </div>
