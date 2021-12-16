@@ -56,20 +56,12 @@ const MyProjects = () => {
         />
 
         <Project 
-          name="Food Store Client" 
-          description={t("description.newProjectTwo")}
-          subName="React Redux Typescript Tailwind"
-          firstLinkName="Github"
-          link="https://github.com/peterdinis/Food-Client"
-          />
 
-<Project 
-          name="Food Store API" 
-          description={t("description.newProjectThree")}
-          subName="Asp.Net Sqlite"
+          name="Next Web3 Crpyto app" 
+          description="Applikácia pre crpyto platby"
+          subName="Next Moralis Tailwind"
           firstLinkName="Github"
-          link="https://github.com/peterdinis/Food-API"
-          />
+          link="https://github.com/peterdinis/Next-Web3" />
       </div>
     </div>
   );
