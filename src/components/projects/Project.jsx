@@ -24,6 +24,8 @@ function Project(props) {
                  {props.firstLinkName}
                 </a>
               </button>
+
+              
             </div>
           </div>
         </div>

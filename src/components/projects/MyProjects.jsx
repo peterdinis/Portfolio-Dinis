@@ -28,7 +28,7 @@ const MyProjects = () => {
           name="DevBOOK"
           description={t("description.newProject")}
           subName="React Typescript Tailwind Asp.net Sqlite"
-          link="https://github.com/peterdinis/Social-Site-New"
+          link="https://github.com/peterdinis/Social-Site-2.0"
           firstLinkName="Github"
         />
         
