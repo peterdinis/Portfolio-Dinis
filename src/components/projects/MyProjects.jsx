@@ -55,13 +55,13 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Pizzas-App"
         />
 
-        <Project 
+        {/* <Project 
 
           name="Next Web3 Crpyto app" 
           description="Applikácia pre crpyto platby"
           subName="Next Moralis Tailwind"
           firstLinkName="Github"
-          link="https://github.com/peterdinis/Next-Web3" />
+          link="https://github.com/peterdinis/Next-Web3" /> */}
       </div>
     </div>
   );
