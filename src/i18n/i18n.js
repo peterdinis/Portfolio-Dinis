@@ -38,6 +38,8 @@ i18n
             uuappHeader: "What is uuapp",
             newProject: "Simple social site",
             newCompany: "Inver s.r.o",
+            insta: "Instagram clone",
+            instaBE: "API for instagram",
             newProjectOne: "Simple e-commerce application in node",
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
@@ -50,6 +52,8 @@ i18n
       sk: {
         translation: {
           description: {
+            insta: "Kópia Instagramu",
+            instaBE:"Backend instagram",
             aboutMe: "Pár viet o mne",
             firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
