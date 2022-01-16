@@ -38,6 +38,8 @@ i18n
             uuappHeader: "What is uuapp",
             newProject: "Simple social site",
             newCompany: "Inver s.r.o",
+            insta: "Instagram clone",
+            instaBE: "API for instagram",
             newProjectOne: "Simple e-commerce application in node",
             crm: "Simple CRM management system",
             crmAPI: "API for CRM",
@@ -52,6 +54,8 @@ i18n
       sk: {
         translation: {
           description: {
+            insta: "Kópia Instagramu",
+            instaBE:"Backend instagram",
             aboutMe: "Pár viet o mne",
             crm: "Jednoduchý crm systém",
             crmAPI: "API pre crm",

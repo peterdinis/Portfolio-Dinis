@@ -1,45 +1,45 @@
 import Project from "./Project";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 const MyProjects = () => {
-  const {t} = useTranslation ();
+  const { t } = useTranslation();
 
   return (
     <div className="mt-1">
-      <h1 className="text-center mt-4 text-4xl">{t("description.myProjects")}</h1>
+      <h1 className="text-center mt-4 text-4xl">
+        {t("description.myProjects")}
+      </h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
-        <Project 
+        <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React React Query Styled-Components Typescript Material UI"
-          link="https://github.com/peterdinis/React-SPST-Kniznica"
+          subName="React React Query Asp.net mysql"
+          link="https://github.com/peterdinis/React-Aspnet-SchollApp"
           firstLinkName="Github"
         />
 
-        <Project 
-          name={t("description.projectTwo")}
-          description={t("description.projectTwoD")}
-          subName="Python Django Postgresql"
-          link="https://github.com/peterdinis/SPST-Book-API"
+        <Project
+          name={t("description.insta")}
+          subName="React Recoil Typescript"
+          link="https://github.com/peterdinis/DevStagram-Frontend"
           firstLinkName="Github"
         />
 
-        <Project 
-          name="DevBOOK"
-          description={t("description.newProject")}
-          subName="React Typescript Tailwind Asp.net Sqlite"
-          link="https://github.com/peterdinis/Social-Site-2.0"
+        <Project
+          name={t("description.instaBE")}
+          subName="Node typescript mongodb"
+          link="https://github.com/peterdinis/Dev-Stagram-Backend"
           firstLinkName="Github"
         />
-        
-        <Project 
+
+        <Project
           name="Snake Game"
           description={t("description.projectFourD")}
           subName="Html css js"
           link="https://github.com/peterdinis/Javascript-Snake-Game"
           firstLinkName="Github"
         />
-        <Project 
+        <Project
           name="Simple BookStore Admin Dashboard"
           description={t("description.sevenDesc")}
           subName="Html Css JS"
