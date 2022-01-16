@@ -47,21 +47,21 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          name="Node Pizza Store"
-          description={t("description.newProjectOne")}
-          subName="Node Typscript Ejs Tailwind"
+        <Project 
+          name="Cron-CRM"
+          description={t("description.crm")}
+          subName="React Recoil Typescript"
+          link="https://github.com/peterdinis/Cron-CRM-React"
           firstLinkName="Github"
-          link="https://github.com/peterdinis/Node-Pizzas-App"
         />
 
-        {/* <Project 
-
-          name="Next Web3 Crpyto app" 
-          description="Applikácia pre crpyto platby"
-          subName="Next Moralis Tailwind"
+        <Project 
+          name="Cron-CRM Backend"
+          description={t("description.crmAPI")}
+          subName="Python Django Sqlite"
+          link="https://github.com/peterdinis/CRON-CRM-Backend"
           firstLinkName="Github"
-          link="https://github.com/peterdinis/Next-Web3" /> */}
+        />
       </div>
     </div>
   );

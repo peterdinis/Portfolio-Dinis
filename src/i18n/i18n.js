@@ -39,6 +39,8 @@ i18n
             newProject: "Simple social site",
             newCompany: "Inver s.r.o",
             newProjectOne: "Simple e-commerce application in node",
+            crm: "Simple CRM management system",
+            crmAPI: "API for CRM",
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
             sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
@@ -51,6 +53,8 @@ i18n
         translation: {
           description: {
             aboutMe: "Pár viet o mne",
+            crm: "Jednoduchý crm systém",
+            crmAPI: "API pre crm",
             firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
