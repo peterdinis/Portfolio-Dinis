@@ -50,16 +50,8 @@ const MyProjects = () => {
         <Project 
           name="Cron-CRM"
           description={t("description.crm")}
-          subName="React Recoil Typescript"
-          link="https://github.com/peterdinis/Cron-CRM-React"
-          firstLinkName="Github"
-        />
-
-        <Project 
-          name="Cron-CRM Backend"
-          description={t("description.crmAPI")}
-          subName="Python Django Sqlite"
-          link="https://github.com/peterdinis/CRON-CRM-Backend"
+          subName="React Laravel Typescript"
+          link="https://github.com/peterdinis/Laravel-React-CRM"
           firstLinkName="Github"
         />
       </div>
