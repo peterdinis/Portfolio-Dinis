@@ -46,14 +46,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Simple-Dashboard"
           firstLinkName="Github"
         />
-
-        <Project 
-          name="Cron-CRM"
-          description={t("description.crm")}
-          subName="React Laravel Typescript"
-          link="https://github.com/peterdinis/Laravel-React-CRM"
-          firstLinkName="Github"
-        />
       </div>
     </div>
   );
