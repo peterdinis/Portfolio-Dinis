@@ -15,6 +15,8 @@ i18n
       en: {
         translation: {
           description: {
+            devOverflow: "API clone for stack overflow",
+            doc: "Application for doctors",
             aboutMe: "A few sentences about me",
             firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
             secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
@@ -54,6 +56,8 @@ i18n
       sk: {
         translation: {
           description: {
+            devOverflow: "Kopia Stack overflow",
+            doc: "Applikácia pre doktorov",
             insta: "Kópia Instagramu",
             instaBE:"Backend instagram",
             aboutMe: "Pár viet o mne",

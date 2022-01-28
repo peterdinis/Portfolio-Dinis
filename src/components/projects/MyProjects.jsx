@@ -18,25 +18,20 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          name={t("description.insta")}
-          subName="React Recoil Typescript"
-          link="https://github.com/peterdinis/DevStagram-Frontend"
+<Project
+          name="IDoctor"
+          description={t("description.doc")}
+          subName="C# Asp.net"
+          link="https://github.com/peterdinis/IDoctor-App"
           firstLinkName="Github"
         />
 
+       
         <Project
-          name={t("description.instaBE")}
-          subName="Node typescript mongodb"
-          link="https://github.com/peterdinis/Dev-Stagram-Backend"
-          firstLinkName="Github"
-        />
-
-        <Project
-          name="Snake Game"
-          description={t("description.projectFourD")}
-          subName="Html css js"
-          link="https://github.com/peterdinis/Javascript-Snake-Game"
+          name="Dev overflow"
+          description={t("description.devOverflow")}
+          subName="Goolang mysql"
+          link="https://github.com/peterdinis/Dev-Owerflow-API"
           firstLinkName="Github"
         />
         <Project
