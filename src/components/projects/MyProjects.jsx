@@ -41,6 +41,20 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Simple-Dashboard"
           firstLinkName="Github"
         />
+        <Project
+          name="Dev Tweet Client"
+          description={t("description.socialGraphql")}
+          subName="React Graphql Typescript "
+          link="https://github.com/peterdinis/React-Graphql-SocialSite"
+          firstLinkName="Github"
+        />
+        <Project
+          name="Simple BookStore Admin Dashboard"
+          description={t("description.socialGraphAPI")}
+          subName="Html Css JS"
+          link="https://github.com/peterdinis/Simple-Dashboard"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );

@@ -15,10 +15,12 @@ i18n
       en: {
         translation: {
           description: {
+            socialGraphAPI: "Api for dev tweet",
+            socialGraphql: "Simple Social site Twitter clone",
             devOverflow: "API clone for stack overflow",
             doc: "Application for doctors",
             aboutMe: "A few sentences about me",
-            firstSentence: "Hi My name is Peter Dinis. I am 20 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
+            firstSentence: "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
             secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
@@ -56,6 +58,8 @@ i18n
       sk: {
         translation: {
           description: {
+            socialGraphAPI: "API k sociálnej siete",
+            socialGraphql: "Jednoduchá socialná sieť podobná twitteru",
             devOverflow: "Kopia Stack overflow",
             doc: "Applikácia pre doktorov",
             insta: "Kópia Instagramu",
@@ -63,7 +67,7 @@ i18n
             aboutMe: "Pár viet o mne",
             crm: "Jednoduchý crm systém",
             crmAPI: "API pre crm",
-            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 20 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
+            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
             newProjectOne: "Jednoduchá e-commerce aplikácia v node",
