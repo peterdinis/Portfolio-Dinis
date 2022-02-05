@@ -49,6 +49,14 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
+        <Project 
+          name="DevNetAPI"
+          description={t("description.socialGraphAPI")}
+          subName="Asp.net Sqlite"
+          link="https://github.com/peterdinis/Dev-Net-API"
+          firstLinkName="Github"
+        />
+
         <Project
           name="Simple BookStore Admin Dashboard"
           description={t("description.socialGraphAPI")}
