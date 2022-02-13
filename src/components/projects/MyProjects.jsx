@@ -17,15 +17,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/React-Aspnet-SchollApp"
           firstLinkName="Github"
         />
-
-<Project
-          name="IDoctor"
-          description={t("description.doc")}
-          subName="C# Asp.net"
-          link="https://github.com/peterdinis/IDoctor-App"
-          firstLinkName="Github"
-        />
-
        
         <Project
           name="Dev overflow"
@@ -41,27 +32,45 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Simple-Dashboard"
           firstLinkName="Github"
         />
-        <Project
-          name="DevNet"
-          description={t("description.socialGraphql")}
-          subName="React Typescript "
-          link="https://github.com/peterdinis/React-Graphql-SocialSite"
-          firstLinkName="Github"
-        />
-
-        <Project 
-          name="DevNetAPI"
-          description={t("description.socialGraphAPI")}
-          subName="Asp.net Sqlite"
-          link="https://github.com/peterdinis/Dev-Net-API"
-          firstLinkName="Github"
-        />
 
         <Project
           name="Simple BookStore Admin Dashboard"
           description={t("description.socialGraphAPI")}
           subName="Html Css JS"
           link="https://github.com/peterdinis/Simple-Dashboard"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name="Dev Net"
+          description={t("description.socialGraphql")}
+          subName="React Javascript css"
+          link="https://github.com/peterdinis/Dev-Net-Frontend"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name="Dev Net API"
+          description={t("description.socialGraphAPI")}
+          subName="Nodejs Mongodb"
+          link="https://github.com/peterdinis/Dev-Net-Backend"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name="Mern Shop Frontend"
+          description={t("description.eshop")}
+          subName="React typescript css"
+          link="https://github.com/peterdinis/Mern-Shop-Frontend"
+          firstLinkName="Github"
+        />
+
+
+        <Project 
+          name="Mern shop Backend"
+          description={t("description.eshopAPI")}
+          subName="node mongodb"
+          link="https://github.com/peterdinis/Mern-Shop-Backend"
           firstLinkName="Github"
         />
       </div>

@@ -16,7 +16,9 @@ i18n
         translation: {
           description: {
             socialGraphAPI: "Api for dev tweet",
-            socialGraphql: "Simple Social site Twitter clone",
+            eshop: "Online shop with t-shirts plus payments",
+            eshopAPI: "API for online shop",
+            socialGraphql: "Simple Social site instagram clone",
             devOverflow: "API clone for stack overflow",
             doc: "Application for doctors",
             aboutMe: "A few sentences about me",
@@ -59,7 +61,7 @@ i18n
         translation: {
           description: {
             socialGraphAPI: "API k sociálnej siete",
-            socialGraphql: "Jednoduchá socialná sieť podobná twitteru",
+            socialGraphql: "Jednoduchá socialná sieť podobná instagramu",
             devOverflow: "Kopia Stack overflow",
             doc: "Applikácia pre doktorov",
             insta: "Kópia Instagramu",
