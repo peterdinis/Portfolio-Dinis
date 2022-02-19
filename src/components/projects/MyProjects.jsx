@@ -56,23 +56,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Dev-Net-Backend"
           firstLinkName="Github"
         />
-
-        <Project 
-          name="Mern Shop Frontend"
-          description={t("description.eshop")}
-          subName="React typescript css"
-          link="https://github.com/peterdinis/Mern-Shop-Frontend"
-          firstLinkName="Github"
-        />
-
-
-        <Project 
-          name="Mern shop Backend"
-          description={t("description.eshopAPI")}
-          subName="node mongodb"
-          link="https://github.com/peterdinis/Mern-Shop-Backend"
-          firstLinkName="Github"
-        />
       </div>
     </div>
   );
