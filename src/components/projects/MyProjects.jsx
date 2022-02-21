@@ -56,6 +56,15 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Dev-Net-Backend"
           firstLinkName="Github"
         />
+
+        <Project
+        description={t("description.foo")}
+          name="BookZor"
+          subName="Asp.Net Blazor sqlite"
+          link="https://github.com/peterdinis/BookZor"
+          firstLinkName="Github"
+
+        />
       </div>
     </div>
   );

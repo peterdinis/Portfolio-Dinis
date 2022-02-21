@@ -15,6 +15,7 @@ i18n
       en: {
         translation: {
           description: {
+            foo: "Eshop book sales",
             socialGraphAPI: "Api for dev tweet",
             eshop: "Online shop with t-shirts plus payments",
             eshopAPI: "API for online shop",
@@ -60,6 +61,7 @@ i18n
       sk: {
         translation: {
           description: {
+            foo: "Eshop  predaj kníh",
             socialGraphAPI: "API k sociálnej siete",
             socialGraphql: "Jednoduchá socialná sieť podobná instagramu",
             devOverflow: "Kopia Stack overflow",
