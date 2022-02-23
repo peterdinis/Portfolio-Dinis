@@ -58,10 +58,10 @@ const MyProjects = () => {
         />
 
         <Project
-        description={t("description.foo")}
-          name="BookZor"
-          subName="Asp.Net Blazor sqlite"
-          link="https://github.com/peterdinis/BookZor"
+        description={t("description.doc")}
+          name="IDoctor"
+          subName="Asp.Net Mvc sqlite"
+          link="https://github.com/peterdinis/IDoctor"
           firstLinkName="Github"
 
         />
