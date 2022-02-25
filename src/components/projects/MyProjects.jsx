@@ -17,7 +17,7 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/React-Aspnet-SchollApp"
           firstLinkName="Github"
         />
-       
+
         <Project
           name="Dev overflow"
           description={t("description.devOverflow")}
@@ -41,7 +41,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           name="Dev Net"
           description={t("description.socialGraphql")}
           subName="React Javascript css"
@@ -49,7 +49,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           name="Dev Net API"
           description={t("description.socialGraphAPI")}
           subName="Nodejs Mongodb"
@@ -58,12 +58,11 @@ const MyProjects = () => {
         />
 
         <Project
-        description={t("description.foo")}
-          name="BookZor"
-          subName="Asp.Net Blazor sqlite"
-          link="https://github.com/peterdinis/BookZor"
+          description={t("description.doc")}
+          name="IDoctor"
+          subName="Asp.Net  sqlite"
+          link="https://github.com/peterdinis/IDoctor"
           firstLinkName="Github"
-
         />
       </div>
     </div>
