@@ -15,7 +15,9 @@ i18n
       en: {
         translation: {
           description: {
-            foo: "Eshop book sales",
+            overflowAPI: "Backend to the Dev Overflow application",
+            overflow: "A copy stack overflow user can write a question to answer questions",
+            foo: "Online food shop",
             socialGraphAPI: "Api for dev tweet",
             eshop: "Online shop with t-shirts plus payments",
             eshopAPI: "API for online shop",
@@ -61,7 +63,9 @@ i18n
       sk: {
         translation: {
           description: {
-            foo: "Eshop  predaj kníh",
+            overflowAPI: "Backend ku applikáci Dev Overflow",
+            overflow: "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
+            foo: "Online shop na nákup jedla",
             socialGraphAPI: "API k sociálnej siete",
             socialGraphql: "Jednoduchá socialná sieť podobná instagramu",
             devOverflow: "Kopia Stack overflow",
