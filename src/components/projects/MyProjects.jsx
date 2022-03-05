@@ -33,19 +33,11 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          name="Simple BookStore Admin Dashboard"
-          description={t("description.socialGraphAPI")}
-          subName="Html Css JS"
-          link="https://github.com/peterdinis/Simple-Dashboard"
-          firstLinkName="Github"
-        />
-
         <Project 
           name="Dev Net"
           description={t("description.socialGraphql")}
-          subName="React Javascript css"
-          link="https://github.com/peterdinis/Dev-Net-Frontend"
+          subName="React Redux Typescript "
+          link="https://github.com/peterdinis/Dev-Net-Typescript"
           firstLinkName="Github"
         />
 
