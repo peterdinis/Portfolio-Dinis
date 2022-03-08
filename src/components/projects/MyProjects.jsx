@@ -57,6 +57,15 @@ const MyProjects = () => {
           firstLinkName="Github"
 
         />
+
+<Project
+        description={t("description.eshop")}
+          name="Burger Shop"
+          subName="React Redux-Toolkit Asp.Net Typescript"
+          link="https://github.com/peterdinis/BurgerShop-2.0"
+          firstLinkName="Github"
+
+        />
       </div>
     </div>
   );
