@@ -2,30 +2,48 @@ import "./Navbar.css";
 
 function Navbar() {
   return (
-    <div>
-      <div className="nav">
-        <input type="checkbox" id="nav-check" />
-        <div className="nav-header">
-          <div className="nav-title">
-            <a href="/">Peter Dinis porfolio</a>
-          </div>
-        </div>
-        <div className="nav-btn">
-          <label htmlFor="nav-check">
-            <span></span>
-            <span></span>
-            <span></span>
-          </label>
+    <nav className="nav bg-blue-700 flex flex-wrap items-center justify-between px-4">
+        <div className="flex flex-no-shrink items-center mr-6 py-3 text-grey-darkest">
+          <a href="/" className="font-semibold text-blue-100 text-xl ">
+            Peter Dinis
+          </a>
         </div>
 
-        <div className="nav-links">
-          <a href="https://github.com/peterdinis?tab=repositories">Github</a>
-          <a href="https://www.linkedin.com/in/peter-dinis-58520b214/">LinkedIn</a>
-          <a href="https://www.facebook.com/peto.dinis//">Facebook</a>
-          <a href="https://www.instagram.com/petodinis/">Instagram</a>
-        </div>
-      </div>
-    </div>
+        <input className="menu-btn hidden" type="checkbox" id="menu-btn" />
+        <label
+          className="menu-icon block cursor-pointer md:hidden px-2 py-4 relative select-none"
+          htmlFor="menu-btn"
+        >
+          <span className="navicon bg-grey-darkest flex items-center relative"></span>
+        </label>
+
+        <ul className="menu border-b md:border-none flex justify-end list-reset m-0 w-full md:w-auto">
+          <li className="border-t md:border-none">
+            <a
+              href="https://www.facebook.com/peto.dinis/"
+              className="block md:inline-block px-4 py-3 no-underline text-blue-100 text-xl hover:text-grey-darker font-bold"
+            >
+              Facebook
+            </a>
+          </li>
+          <li className="border-t md:border-none">
+            <a
+              href="https://github.com/peterdinis"
+              className="block md:inline-block px-4 py-3 no-underline text-blue-100 text-xl hover:text-grey-darker font-bold"
+            >
+              Github
+            </a>
+          </li>
+          <li className="border-t md:border-none">
+            <a
+              href="https://www.instagram.com/peterdinis1/"
+              className="block md:inline-block px-4 py-3 no-underline text-blue-100 text-xl hover:text-grey-darker font-bold"
+            >
+              Instagram
+            </a>
+          </li>
+        </ul>
+      </nav>
   )
 }
 
