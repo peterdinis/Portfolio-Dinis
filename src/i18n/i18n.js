@@ -15,6 +15,7 @@ i18n
       en: {
         translation: {
           description: {
+            shoppingCart: "Simple implement shopping cart in nest",
             overflowAPI: "Backend to the Dev Overflow application",
             overflow: "A copy stack overflow user can write a question to answer questions",
             foo: "Online food shop",
@@ -63,6 +64,7 @@ i18n
       sk: {
         translation: {
           description: {
+            shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",
             overflow: "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",

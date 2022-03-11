@@ -26,20 +26,12 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          name="Dev Net"
-          description={t("description.socialGraphql")}
-          subName="React Redux Typescript "
-          link="https://github.com/peterdinis/Dev-Net-Typescript"
+        <Project 
+          name="Shopping Card"
+          description={t("description.shoppingCart")}
+          subName="Nestjs Postgresql"
           firstLinkName="Github"
-        />
-
-        <Project
-          name="Dev Net API"
-          description={t("description.socialGraphAPI")}
-          subName="Nodejs Mongodb"
-          link="https://github.com/peterdinis/Dev-Net-Backend"
-          firstLinkName="Github"
+          link="https://github.com/peterdinis/Nest-Shop"
         />
 
         <Project
