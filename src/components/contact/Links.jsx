@@ -6,7 +6,7 @@ import "./Links.css";
 
 function Links() {
   return (
-    <div>
+    <>
       <div className="linksGrid">
         <a
           className="text-red-800 mt-2 text-3xl"
@@ -45,7 +45,7 @@ function Links() {
           <h3 className="mt-2">LinkedIn</h3>
         </a>
       </div>
-    </div>
+    </>
   );
 }
 

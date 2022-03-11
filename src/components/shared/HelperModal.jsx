@@ -57,7 +57,7 @@ export default function SimpleModal() {
   );
 
   return (
-    <div>
+    <>
       <button className="mt-2 text-red-800" type="button" onClick={handleOpen}>
         Uuapp info
       </button>
@@ -69,6 +69,6 @@ export default function SimpleModal() {
       >
         {body}
       </Modal>
-    </div>
+    </>
   );
 }

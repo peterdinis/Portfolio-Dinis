@@ -6,7 +6,7 @@ function Info() {
   const { t } = useTranslation();
 
   return (
-    <div>
+    <>
       <section className="text-gray-700 body-font overflow-hidden bg-white">
         <div className="container px-5 py-24 mx-auto">
           <div className="lg:w-4/5 mx-auto flex mt-1 flex-wrap">
@@ -35,7 +35,7 @@ function Info() {
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }
 
