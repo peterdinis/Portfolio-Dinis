@@ -26,7 +26,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           name="Shopping Card"
           description={t("description.shoppingCart")}
           subName="Nestjs Postgresql"
@@ -42,23 +42,23 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           description={t("description.foo")}
           name="Burger Shop"
           subName="Asp.Net React Typescript"
           link="https://github.com/peterdinis/BurgerShop-2.0"
           firstLinkName="Github"
-          />
+        />
 
-        <Project 
-          description={t("description.overflow")} 
+        <Project
+          description={t("description.overflow")}
           name="Dev overflow client"
           subName="React Typescript Graphql"
           link="https://github.com/peterdinis/Dev-Overflow-Client"
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           description=""
           name="Dev overflow api"
           subName="Node Typescript graphql"

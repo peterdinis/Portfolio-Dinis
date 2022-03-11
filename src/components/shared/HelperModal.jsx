@@ -1,7 +1,7 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import { makeStyles, createStyles } from "@material-ui/core/styles";
 import Modal from "@material-ui/core/Modal";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 function rand() {
   return Math.round(Math.random() * 20) - 10;
@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) =>
 );
 
 export default function SimpleModal() {
-  const {t} = useTranslation ();
+  const { t } = useTranslation();
   const classes = useStyles();
   const [modalStyle] = useState(getModalStyle);
   const [open, setOpen] = useState(false);
@@ -47,7 +47,9 @@ export default function SimpleModal() {
 
   const body = (
     <div style={modalStyle} className={classes.paper}>
-      <h2 className="text-3xl text-red-700 text-center" id="simple-modal-title">{t("description.uuappHeader")}</h2>
+      <h2 className="text-3xl text-red-700 text-center" id="simple-modal-title">
+        {t("description.uuappHeader")}
+      </h2>
       <p className="mt-4 text-2xl font-bold" id="simple-modal-description">
         {t("description.uuappText")}
       </p>

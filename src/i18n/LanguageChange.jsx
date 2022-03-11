@@ -1,5 +1,5 @@
 import React from "react";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 const lngs = {
   en: { nativeName: "English" },
@@ -7,7 +7,7 @@ const lngs = {
 };
 
 function LanguageChange() {
-  const {i18n } = useTranslation();
+  const { i18n } = useTranslation();
 
   return (
     <>
