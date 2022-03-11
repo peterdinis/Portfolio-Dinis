@@ -6,7 +6,7 @@ import Modal from "@material-ui/core/Modal";
 import Backdrop from "@material-ui/core/Backdrop";
 import Fade from "@material-ui/core/Fade";
 import "./Knowledge.css";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 export default function Knowledge() {
   const classes = useStyles();
@@ -21,12 +21,14 @@ export default function Knowledge() {
     setOpen(false);
   };
 
-  const {t} = useTranslation ();
+  const { t } = useTranslation();
   return (
     <div className="pb-2">
       <div className={classes.root}>
         <Paper className="mt-2 pt-2" elevation={3}>
-          <h1 className="text-center text-4xl text-black">{t("description.knowledge")}</h1>
+          <h1 className="text-center text-4xl text-black">
+            {t("description.knowledge")}
+          </h1>
           <div className="buttonWrapper">
             <button
               className="border border-green-500 bg-green-500 text-2xl text-white rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:bg-green-600 focus:outline-none focus:shadow-outline"

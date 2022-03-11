@@ -1,9 +1,9 @@
 import logo from "../../images/me.jpg";
 import Images from "./Images";
-import {useTranslation} from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 function Info() {
-  const {t} = useTranslation ();
+  const { t } = useTranslation();
 
   return (
     <div>
@@ -17,18 +17,18 @@ function Info() {
             />
             <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
               <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">
-              {t('description.aboutMe')}
+                {t("description.aboutMe")}
               </h1>
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
-              {t("description.firstSentence")}
+                {t("description.firstSentence")}
               </p>
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
-              {t("description.secondSentence")}
+                {t("description.secondSentence")}
               </p>
               <p className="leading-relaxed text-3xl text-gray-700 mt-6">
                 {t("description.favoriteStack")}
                 <div className="mt-1">
-                <Images />
+                  <Images />
                 </div>
               </p>
             </div>
