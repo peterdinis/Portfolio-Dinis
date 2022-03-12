@@ -7,8 +7,8 @@ function Images() {
         className="w-18"
       />
       <img
-        src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg"
-        alt="React-Query"
+        src="https://d4jyn86spyrm8.cloudfront.net/redux.png"
+        alt="Redux"
         className="w-18"
       />
       <img
@@ -42,8 +42,8 @@ function Images() {
         className="w-18"
       />
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16fcuheeaR0AgEcn8HcpDRTph6P59RTm0Sg&usqp=CAU"
-        alt="Goolang"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png"
+        alt="Python"
         className="w-18"
       />
     </div>
