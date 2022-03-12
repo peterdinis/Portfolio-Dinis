@@ -50,7 +50,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
+        {/* <Project
           description={t("description.overflow")}
           name="Dev overflow client"
           subName="React Typescript Graphql"
@@ -64,7 +64,7 @@ const MyProjects = () => {
           subName="Node Typescript graphql"
           link="https://github.com/peterdinis/Dev-OwerflowGraphql-API"
           firstLinkName="Github"
-        />
+        /> */}
       </div>
     </div>
   );
