@@ -19,14 +19,6 @@ const MyProjects = () => {
         />
 
         <Project
-          name="Simple BookStore Admin Dashboard"
-          description={t("description.sevenDesc")}
-          subName="Html Css JS"
-          link="https://github.com/peterdinis/Simple-Dashboard"
-          firstLinkName="Github"
-        />
-
-        <Project
           name="Shopping Card"
           description={t("description.shoppingCart")}
           subName="Nestjs Postgresql"
