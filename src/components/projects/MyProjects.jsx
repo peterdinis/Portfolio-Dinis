@@ -23,7 +23,7 @@ const MyProjects = () => {
           description={t("description.shoppingCart")}
           subName="Nestjs Postgresql"
           firstLinkName="Github"
-          link="https://github.com/peterdinis/Nest-Shop"
+          link="https://github.com/peterdinis/Nest-Shop-API"
         />
 
         <Project
@@ -42,21 +42,14 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        {/* <Project
-          description={t("description.overflow")}
-          name="Dev overflow client"
-          subName="React Typescript Graphql"
-          link="https://github.com/peterdinis/Dev-Overflow-Client"
+
+        <Project 
+          description={t("description.shop")}
+          name="Vue eshop"
+          subName="Vue vuex typescript"
+          link="https://github.com/peterdinis/Vue-Shop-Frontend"
           firstLinkName="Github"
         />
-
-        <Project
-          description=""
-          name="Dev overflow api"
-          subName="Node Typescript graphql"
-          link="https://github.com/peterdinis/Dev-OwerflowGraphql-API"
-          firstLinkName="Github"
-        /> */}
       </div>
     </div>
   );

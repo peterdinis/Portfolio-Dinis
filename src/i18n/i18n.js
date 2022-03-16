@@ -21,6 +21,7 @@ i18n
               "A copy stack overflow user can write a question to answer questions",
             foo: "Online food shop",
             socialGraphAPI: "Api for dev tweet",
+            shop: "Online book shop payments includes",
             eshop: "Online burger-shop plus payments",
             eshopAPI: "API for online shop",
             socialGraphql: "Simple Social site instagram clone",
@@ -86,6 +87,7 @@ i18n
             aboutMe: "Pár viet o mne",
             crm: "Jednoduchý crm systém",
             crmAPI: "API pre crm",
+            bookShop: "Online knižný shop s možnosťou online platieb",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
