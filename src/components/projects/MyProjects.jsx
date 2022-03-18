@@ -36,18 +36,42 @@ const MyProjects = () => {
 
         <Project
           description={t("description.foo")}
-          name="Burger Shop"
-          subName="Asp.Net React Typescript"
+          name="Burger Shop API"
+          subName="Asp.Net sqlite"
           link="https://github.com/peterdinis/BurgerShop-2.0"
+          firstLinkName="Github"
+        />
+
+        <Project
+          description={t("description.foo")}
+          name="Burger Shop Client"
+          subName="React typescript"
+          link="https://github.com/peterdinis/BurgerShop2.0Client"
+          firstLinkName="Github"
+        />
+
+        <Project
+          description={t("description.shop")}
+          name="Vue eshop"
+          subName="Vue vuex typescript"
+          link="https://github.com/peterdinis/Vue-Shop-Frontend"
           firstLinkName="Github"
         />
 
 
         <Project 
-          description={t("description.shop")}
-          name="Vue eshop"
-          subName="Vue vuex typescript"
-          link="https://github.com/peterdinis/Vue-Shop-Frontend"
+          description={t("description.socialGraphql")}
+          name="Dev-Net-Typescript"
+          subName="React-Typescript Redux"
+          link="https://github.com/peterdinis/Dev-Net-Typescript"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          description={t("description.socialGraphAPI")}
+          name="Dev-Net-Backend"
+          subName="Node Mongodb"
+          link="https://github.com/peterdinis/Dev-Net-Backend"
           firstLinkName="Github"
         />
       </div>
