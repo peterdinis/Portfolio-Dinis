@@ -21,7 +21,7 @@ const MyProjects = () => {
         <Project
           name="Shopping Card"
           description={t("description.shoppingCart")}
-          subName="Nestjs Postgresql"
+          subName="Nestjs Sqlite"
           firstLinkName="Github"
           link="https://github.com/peterdinis/Nest-Shop-API"
         />
@@ -47,14 +47,6 @@ const MyProjects = () => {
           name="Burger Shop Client"
           subName="React typescript"
           link="https://github.com/peterdinis/BurgerShop2.0Client"
-          firstLinkName="Github"
-        />
-
-        <Project
-          description={t("description.shop")}
-          name="Vue eshop"
-          subName="Vue vuex typescript"
-          link="https://github.com/peterdinis/Vue-Shop-Frontend"
           firstLinkName="Github"
         />
 
