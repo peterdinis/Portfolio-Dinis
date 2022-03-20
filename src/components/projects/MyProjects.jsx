@@ -62,8 +62,8 @@ const MyProjects = () => {
         <Project 
           description={t("description.socialGraphAPI")}
           name="Dev-Net-Backend"
-          subName="Node Mongodb"
-          link="https://github.com/peterdinis/Dev-Net-Backend"
+          subName="Node Typescript Mongodb"
+          link="https://github.com/peterdinis/Dev-Net-API"
           firstLinkName="Github"
         />
       </div>
