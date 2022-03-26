@@ -20,7 +20,7 @@ i18n
             overflow:
               "A copy stack overflow user can write a question to answer questions",
             foo: "Online food shop",
-            socialGraphAPI: "Api for dev tweet",
+            socialGraphAPI: "Api for  instagram clone",
             shop: "Online book shop payments includes",
             eshop: "Online burger-shop plus payments",
             eshopAPI: "API for online shop",
@@ -78,7 +78,7 @@ i18n
             overflow:
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
-            socialGraphAPI: "API k sociálnej siete",
+            socialGraphAPI: "API k sociálnej sieti",
             socialGraphql: "Jednoduchá socialná sieť podobná instagramu",
             devOverflow: "Kopia Stack overflow",
             doc: "Applikácia pre doktorov",
