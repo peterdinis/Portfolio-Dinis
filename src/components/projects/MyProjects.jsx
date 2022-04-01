@@ -27,14 +27,6 @@ const MyProjects = () => {
         />
 
         <Project
-          description={t("description.doc")}
-          name="IDoctor"
-          subName="Asp.Net  sqlite"
-          link="https://github.com/peterdinis/IDoctor"
-          firstLinkName="Github"
-        />
-
-        <Project
           description={t("description.foo")}
           name="Burger Shop API"
           subName="Asp.Net sqlite"
