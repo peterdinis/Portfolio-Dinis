@@ -61,8 +61,8 @@ const MyProjects = () => {
         <Project
           description={t("description.socialGraphql")}
           name="React-django-socialSite"
-          subName="React-Typescript Redux python Django"
-          link="https://github.com/peterdinis/React-Django-SocialSite"
+          subName="Python Django Html Css Js"
+          link="https://github.com/peterdinis/Django-Social-Site"
           firstLinkName="Github"
         />
       </div>
