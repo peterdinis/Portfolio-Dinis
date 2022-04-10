@@ -43,18 +43,26 @@ const MyProjects = () => {
         />
 
         <Project
-          description={t("description.socialGraphql")}
-          name="Dev-Net-Typescript"
-          subName="React-Typescript Redux"
-          link="https://github.com/peterdinis/Dev-Net-Typescript"
+          description={t("description.foo")}
+          name="Pizza-Net"
+          subName="Asp.Net Blazor"
+          link="https://github.com/peterdinis/Pizza-Net-Shop"
           firstLinkName="Github"
         />
 
-        <Project
-          description={t("description.socialGraphAPI")}
-          name="Dev-Net-Backend"
-          subName="Node Typescript Mongodb"
-          link="https://github.com/peterdinis/Dev-Net-API"
+        <Project 
+          description={t("description.fooTshirt")}
+          name="TshirtShop-FE"
+          subName="React typescript styled-components"
+          link="https://github.com/peterdinis/Tshirt-Shop-Frontend"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          description={t("description.fooTshirtBE")}
+          name="TshirtShop-BE"
+          subName="Nestjs typeorm Sqlite3"
+          link="https://github.com/peterdinis/Tshirt-Shop-API"
           firstLinkName="Github"
         />
       </div>
