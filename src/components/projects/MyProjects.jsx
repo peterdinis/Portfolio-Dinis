@@ -13,8 +13,8 @@ const MyProjects = () => {
         <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React React Query Asp.net mysql"
-          link="https://github.com/peterdinis/React-Aspnet-SchollApp"
+          subName="React Redux toolkit typescript Asp.net mysql"
+          link="https://github.com/peterdinis/SPST-2-0"
           firstLinkName="Github"
         />
 
