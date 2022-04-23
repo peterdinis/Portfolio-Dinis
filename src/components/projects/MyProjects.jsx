@@ -51,10 +51,10 @@ const MyProjects = () => {
         />
 
         <Project 
-           description={t("description.foo")}
-          name="TshirtShop-BE"
-          subName="Nestjs typeorm mysql"
-          link="https://github.com/peterdinis/Nest-Eshop-API"
+          description={t("description.netflix")}
+          name="Netlix-Clone"
+          subName="Nextjs Typescript Firebase Stripe"
+          link="https://github.com/peterdinis/Next-Flix"
           firstLinkName="Github"
         />
       </div>
