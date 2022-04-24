@@ -15,6 +15,7 @@ i18n
       en: {
         translation: {
           description: {
+            spotify: "Simple Spotify clone",
             netflix: "Simple Netflix clone",
             shoppingCart: "Simple implement shopping cart in nest",
             overflowAPI: "Backend to the Dev Overflow application",
@@ -77,6 +78,7 @@ i18n
         translation: {
           description: {
             netflix: "Klon netflix stránky",
+            spotify: "Spotify klon",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",
             overflow:
