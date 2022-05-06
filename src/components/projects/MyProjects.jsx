@@ -13,8 +13,8 @@ const MyProjects = () => {
         <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React Redux toolkit typescript Asp.net mysql"
-          link="https://github.com/peterdinis/SPST-2-0"
+          subName="React Typescript Nests Nx"
+          link="https://github.com/peterdinis/Spst-Kniznica-2.0"
           firstLinkName="Github"
         />
 
@@ -47,22 +47,6 @@ const MyProjects = () => {
           name="Pizza-Net"
           subName="Asp.Net Blazor"
           link="https://github.com/peterdinis/Pizza-Net-Shop"
-          firstLinkName="Github"
-        />
-
-        <Project
-          description={t("description.netflix")}
-          name="Netlix-Clone"
-          subName="Nextjs Typescript Firebase Stripe"
-          link="https://github.com/peterdinis/Next-Flix"
-          firstLinkName="Github"
-        />
-
-        <Project
-          description={t("description.spotify")}
-          name="Spotify-Clone"
-          subName="Nextjs Typescript"
-          link="https://github.com/peterdinis/Next-Music-App"
           firstLinkName="Github"
         />
       </div>
