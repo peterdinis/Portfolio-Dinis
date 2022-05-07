@@ -13,8 +13,8 @@ const MyProjects = () => {
         <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React Redux toolkit typescript Asp.net mysql"
-          link="https://github.com/peterdinis/SPST-2-0"
+          subName="React Typescript Nests Nx"
+          link="https://github.com/peterdinis/Spst-Kniznica-2.0"
           firstLinkName="Github"
         />
 
