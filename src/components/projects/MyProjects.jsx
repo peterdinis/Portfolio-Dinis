@@ -50,19 +50,11 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          description={t("description.netflix")}
-          name="Netlix-Clone"
-          subName="Nextjs Typescript Firebase Stripe"
-          link="https://github.com/peterdinis/Next-Flix"
-          firstLinkName="Github"
-        />
-
-        <Project
-          description={t("description.spotify")}
-          name="Spotify-Clone"
-          subName="Nextjs Typescript"
-          link="https://github.com/peterdinis/Next-Music-App"
+        <Project 
+          description={t("description.socialGraphql")}
+          name="Instagram Clone"
+          subName="Python Django Bulma Html Javascript"
+          link="https://github.com/peterdinis/Django-Instagram"
           firstLinkName="Github"
         />
       </div>
