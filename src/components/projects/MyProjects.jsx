@@ -56,6 +56,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Instagram"
           firstLinkName="Github"
         />
+
+        <Project 
+          description={t("description.socialGraphql")}
+          name="Instagram Clone"
+          subName="Python Django Bulma Html Javascript"
+          link="https://github.com/peterdinis/Django-Instagram"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );
