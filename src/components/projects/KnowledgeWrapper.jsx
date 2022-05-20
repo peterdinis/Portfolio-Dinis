@@ -82,8 +82,8 @@ function KnowledgeWrapper() {
         </div>
 
         <div className="mt-2">
-          <Skill name="React" status="Pokročilý" />
-          <BorderLinearProgress variant="determinate" value={80} />
+          <Skill name="React" status="Mierne Pokročilý" />
+          <BorderLinearProgress variant="determinate" value={70} />
         </div>
 
         <div className="mt-2">
@@ -92,8 +92,8 @@ function KnowledgeWrapper() {
         </div>
 
         <div className="mt-2">
-          <Skill name="React Redux" status="Pokročilý" />
-          <BorderLinearProgress variant="determinate" value={80} />
+          <Skill name="React Redux" status="Mierne Pokročilý" />
+          <BorderLinearProgress variant="determinate" value={70} />
         </div>
 
         <div className="mt-2">
