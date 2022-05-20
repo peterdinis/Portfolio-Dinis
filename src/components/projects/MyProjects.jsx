@@ -41,12 +41,19 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/BurgerShop2.0Client"
           firstLinkName="Github"
         />
-
         <Project
           description={t("description.foo")}
-          name="Pizza-Net"
-          subName="Asp.Net Blazor"
-          link="https://github.com/peterdinis/Pizza-Net-Shop"
+          name="Pizza-Nx"
+          subName="Nx Nestjs React"
+          link="https://github.com/peterdinis/Nx-Pizza-Shop"
+          firstLinkName="Github"
+        />
+
+<Project
+          description={t("description.socialGraphql")}
+          name="Django Instagram"
+          subName="Python Django"
+          link="https://github.com/peterdinis/Django-Instagram"
           firstLinkName="Github"
         />
 
