@@ -66,6 +66,8 @@ i18n
             crmAPI: "API for CRM",
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
+            fooPizza: "Pizza shop",
+            fooPizza: "Pizza shop API",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -84,7 +86,8 @@ i18n
             overflow:
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
-            fooPizza: "Online eshop na nákup jedla",
+            fooPizza: "Pizza obchod",
+            fooPizza: "Pizza obchod API",
             fooTshirt: "Online eshop na nákup tričiek",
             fooTshirtBE: "API k eshopu z tričkami",
             socialGraphAPI: "API k sociálnej sieti",

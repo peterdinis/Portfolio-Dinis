@@ -43,7 +43,7 @@ const MyProjects = () => {
         />
         
         <Project 
-          description={t("description.foo")}
+          description={t("description.fooPizza")}
           name="Pizza Shop Frontend"
           subName="React Javascript"
           link="https://github.com/peterdinis/PizzaShop-Frontend"
@@ -51,7 +51,7 @@ const MyProjects = () => {
         />
 
         <Project 
-          description={t("description.foo")}
+          description={t("description.fooPizza")}
           name="Pizza Shop Backend"
           subName="Node Mongodb"
           link="https://github.com/peterdinis/PizzaShopBackend"
