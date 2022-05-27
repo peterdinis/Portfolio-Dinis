@@ -68,6 +68,8 @@ i18n
             newProjectThree: "API for foodStore e-commerce app",
             fooPizza: "Pizza shop",
             fooPizza: "Pizza shop API",
+            buySelling: "Eshop for buying books",
+            buySellingsAPI: "Eshop for buying books API",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -79,6 +81,8 @@ i18n
       sk: {
         translation: {
           description: {
+            buySelling: "Eshop pre nákup kníh",
+            buySellingsAPI: "Eshop pre nákup kníh API",
             netflix: "Klon netflix stránky",
             spotify: "Spotify klon",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
