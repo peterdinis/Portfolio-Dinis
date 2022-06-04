@@ -35,7 +35,7 @@ const MyProjects = () => {
         />
 
         <Project 
-          description={t("description.fooPizza")}
+          description={t("description.fooPizzaAPI")}
           name="Pizza Shop Backend"
           subName="Node Mongodb"
           link="https://github.com/peterdinis/PizzaShopBackend"

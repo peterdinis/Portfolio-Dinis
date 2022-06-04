@@ -67,7 +67,7 @@ i18n
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
             fooPizza: "Pizza shop",
-            fooPizza: "Pizza shop API",
+            fooPizzaAPI: "Pizza shop API",
             buySelling: "Eshop for buying books",
             buySellingsAPI: "Eshop for buying books API",
             sevenDesc:
@@ -91,7 +91,7 @@ i18n
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
             fooPizza: "Pizza obchod",
-            fooPizza: "Pizza obchod API",
+            fooPizzaAPI: "Pizza obchod API",
             fooTshirt: "Online eshop na nákup tričiek",
             fooTshirtBE: "API k eshopu z tričkami",
             socialGraphAPI: "API k sociálnej sieti",
