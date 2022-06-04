@@ -1,53 +1,62 @@
-import Timeline from "@material-ui/lab/Timeline";
-import TimelineItem from "@material-ui/lab/TimelineItem";
-import TimelineSeparator from "@material-ui/lab/TimelineSeparator";
-import TimelineConnector from "@material-ui/lab/TimelineConnector";
-import TimelineContent from "@material-ui/lab/TimelineContent";
-import TimelineDot from "@material-ui/lab/TimelineDot";
-import { Paper } from "@material-ui/core";
-import { useStyles } from "./styles";
 import { useTranslation } from "react-i18next";
 import HelperModal from "../shared/HelperModal";
 
 export default function TimeLine() {
   const { t } = useTranslation();
-  const classes = useStyles();
 
   return (
     <div className="pt-2">
-      <Paper elevation={3}>
-        <h1 className="text-center text-4xl mt-4">{t("description.work")}</h1>
-        <Timeline className={classes.timeline} align="alternate">
-          <TimelineItem>
-            <TimelineSeparator>
-              <TimelineDot />
-              <TimelineConnector />
-            </TimelineSeparator>
-            <TimelineContent className="text-2xl">
-              {t("description.workOne")}
-              <HelperModal />
-            </TimelineContent>
-          </TimelineItem>
-          <TimelineItem>
-            <TimelineSeparator>
-              <TimelineDot color="primary" />
-              <TimelineConnector />
-            </TimelineSeparator>
-            <TimelineContent className="text-2xl">
-              {t("description.workTwo")}
-            </TimelineContent>
-          </TimelineItem>
-          <TimelineItem>
-            <TimelineSeparator>
-              <TimelineDot color="secondary" />
-              <TimelineConnector />
-            </TimelineSeparator>
-            <TimelineContent className="text-2xl">
-              {t("description.workThree")}
-            </TimelineContent>
-          </TimelineItem>
-        </Timeline>
-      </Paper>
+        <h1 className="text-center text-4xl mt-4">{t("description.work")}</h1>       
+      <HelperModal />
+        <div className="p-4 mt-4">
+    <div className="container">
+      <div className="flex flex-col md:grid grid-cols-12 text-gray-50">
+
+        <div className="flex md:contents">
+          <div className="col-start-2 col-end-4 mr-10 md:mx-auto relative">
+            <div className="h-full w-6 flex items-center justify-center">
+              <div className="h-full w-1 bg-green-500 pointer-events-none"></div>
+            </div>
+            <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-green-500 shadow text-center">
+              <i className="fas fa-check-circle text-white"></i>
+            </div>
+          </div>
+          <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
+            <h3 className="font-semibold text-lg mb-1">{t("description.workOne")}</h3>
+          </div>
+        </div>
+
+        <div className="flex md:contents">
+          <div className="col-start-2 col-end-4 mr-10 md:mx-auto relative">
+            <div className="h-full w-6 flex items-center justify-center">
+              <div className="h-full w-1 bg-green-500 pointer-events-none"></div>
+            </div>
+            <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-green-500 shadow text-center">
+              <i className="fas fa-check-circle text-white"></i>
+            </div>
+          </div>
+          <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
+            <h3 className="font-semibold text-lg mb-1"> {t("description.workTwo")}</h3>
+          </div>
+        </div>
+
+        <div className="flex md:contents">
+          <div className="col-start-2 col-end-4 mr-10 md:mx-auto relative">
+            <div className="h-full w-6 flex items-center justify-center">
+              <div className="h-full w-1 bg-green-500 pointer-events-none"></div>
+            </div>
+            <div className="w-6 h-6 absolute top-1/2 -mt-3 rounded-full bg-green-500 shadow text-center">
+              <i className="fas fa-check-circle text-white"></i>
+            </div>
+          </div>
+          <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
+            <h3 className="font-semibold text-lg mb-1"> {t("description.workThree")}</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+      
     </div>
   );
 }

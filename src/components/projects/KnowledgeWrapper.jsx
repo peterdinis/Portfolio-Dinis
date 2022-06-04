@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Paper, Box } from "@material-ui/core";
+import { Box } from "@material-ui/core";
 import { BorderLinearProgress, style } from "./styles";
 import Skill from "./Skill";
 import Modal from "@material-ui/core/Modal";
@@ -23,7 +23,6 @@ function KnowledgeWrapper() {
 
   return (
     <>
-      <Paper className="mt-2 pt-2" elevation={3}>
         <h1 className="text-center text-4xl text-black">
           {t("description.knowledge")}
         </h1>
@@ -125,7 +124,6 @@ function KnowledgeWrapper() {
           <Skill name="MongoDB" status="Mierne pokročilý" />
           <BorderLinearProgress variant="determinate" value={50} />
         </div>
-      </Paper>
     </>
   );
 }
