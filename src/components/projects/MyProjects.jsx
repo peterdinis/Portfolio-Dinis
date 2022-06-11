@@ -25,8 +25,8 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/BurgerShop2.0Client"
           firstLinkName="Github"
         />
-        
-        <Project 
+
+        <Project
           description={t("description.fooPizza")}
           name="Pizza Shop Frontend"
           subName="React Javascript"
@@ -34,28 +34,28 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           description={t("description.fooPizzaAPI")}
           name="Pizza Shop Backend"
-          subName="Node Mongodb"
+          subName="Node Mongodb Jabacript"
           link="https://github.com/peterdinis/PizzaShopBackend"
           firstLinkName="Github"
         />
 
-        <Project 
-          description={t("description.buySelling")}
-          name="Buy Book Frontend"
-          subName="React Typescript"
-          link="https://github.com/peterdinis/Buy-Book-Frontend"
+        <Project
+          description={t("description.socialGraphAPI")}
+          name="Dev Net Backend"
+          subName="Node Tpyescript Mongodb"
+          link="https://github.com/peterdinis/Dev-net-Backend"
           firstLinkName="Github"
         />
 
-        <Project 
-         description={t("description.buySellingsAPI")}
-         name="Buy Book Backend"
-         subName="Python Django"
-         link="https://github.com/peterdinis/Buy-Book-Backend"
-         firstLinkName="Github"
+        <Project
+          description={t("description.socialGraphql")}
+          name="Dev Net Frontend"
+          subName="React Typescript"
+          link="https://github.com/peterdinis/Dev-Net-Frontend"
+          firstLinkName="Github"
         />
       </div>
     </div>
