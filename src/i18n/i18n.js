@@ -95,7 +95,7 @@ i18n
             fooTshirt: "Online eshop na nákup tričiek",
             fooTshirtBE: "API k eshopu z tričkami",
             socialGraphAPI: "API k sociálnej sieti",
-            socialGraphql: "Jednoduchá socialná sieť podobná facebooku",
+            socialGraphql: "Facebook klon",
             devOverflow: "Kopia Stack overflow",
             doc: "Applikácia pre doktorov",
             insta: "Kópia Instagramu",

@@ -44,17 +44,17 @@ const MyProjects = () => {
 
         <Project
           description={t("description.socialGraphAPI")}
-          name="Dev Net Backend"
+          name="Facebook Backend Clone"
           subName="Node Tpyescript Mongodb"
-          link="https://github.com/peterdinis/Dev-net-Backend"
+          link="https://github.com/peterdinis/Facebook-Clone-Backend"
           firstLinkName="Github"
         />
 
         <Project
           description={t("description.socialGraphql")}
-          name="Dev Net Frontend"
+          name="Facebook Clone"
           subName="React Typescript"
-          link="https://github.com/peterdinis/Dev-Net-Frontend"
+          link="https://github.com/peterdinis/Facebook-Clone-Frontend"
           firstLinkName="Github"
         />
       </div>
