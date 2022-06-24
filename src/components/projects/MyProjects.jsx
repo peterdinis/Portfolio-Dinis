@@ -12,17 +12,17 @@ const MyProjects = () => {
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
         <Project
           name={t("description.projectOne")}
-          description={t("description.projectOneD")}
-          subName="React Typescript Nests Nx"
-          link="https://github.com/peterdinis/Spst-Kniznica-2.0"
+          description={t("description.projectOne")}
+          subName="React Typescript"
+          link="https://github.com/peterdinis/Spst-Kniznica-Client"
           firstLinkName="Github"
         />
 
-        <Project
-          description={t("description.foo")}
-          name="Burger Shop Client"
-          subName="React typescript"
-          link="https://github.com/peterdinis/BurgerShop2.0Client"
+<Project
+          name={t("description.projectTwo")}
+          description={t("description.projectTwo")}
+          subName="Node Typescript Postgresql"
+          link="https://github.com/peterdinis/Spst-Kniznica-Server"
           firstLinkName="Github"
         />
 
