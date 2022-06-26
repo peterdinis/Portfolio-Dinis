@@ -32,6 +32,7 @@ i18n
             devOverflow: "API clone for stack overflow",
             doc: "Application for doctors",
             aboutMe: "A few sentences about me",
+            foodApp: "Food ordering application",
             firstSentence:
               "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
             secondSentence:
@@ -90,6 +91,7 @@ i18n
             overflow:
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
+            foodApp: "Aplikácia na objednávanie jedla",
             fooPizza: "Pizza obchod",
             fooPizzaAPI: "Pizza obchod API",
             fooTshirt: "Online eshop na nákup tričiek",

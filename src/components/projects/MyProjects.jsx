@@ -57,6 +57,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Facebook-Clone-Frontend"
           firstLinkName="Github"
         />
+
+<Project
+          description={t("description.foodApp")}
+          name="Food Devlivery App"
+          subName="Python Django"
+          link="https://github.com/peterdinis/Django-FoodDeliveryApp"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );
