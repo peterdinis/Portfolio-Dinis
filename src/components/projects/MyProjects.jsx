@@ -18,10 +18,10 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-<Project
+        <Project
           name={t("description.projectTwo")}
           description={t("description.projectTwo")}
-          subName="Node Typescript Postgresql"
+          subName="Nest Prisma Postgresql"
           link="https://github.com/peterdinis/Spst-Kniznica-Server"
           firstLinkName="Github"
         />
