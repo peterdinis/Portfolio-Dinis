@@ -62,7 +62,7 @@ export default function TimeLine() {
             </div>
           </div>
           <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
-            <h3 className="font-semibold text-lg mb-1">(4 Mesiace) Navisys</h3>
+            <h3 className="font-semibold text-lg mb-1">(5 Mesiace) Navisys</h3>
           </div>
         </div>
         </div>

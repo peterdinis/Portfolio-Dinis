@@ -21,7 +21,7 @@ const MyProjects = () => {
         <Project
           name={t("description.projectTwo")}
           description={t("description.projectTwo")}
-          subName="Nest Prisma Postgresql"
+          subName="Nest Sequelize Postgresql"
           link="https://github.com/peterdinis/Spst-Kniznica-Server"
           firstLinkName="Github"
         />
@@ -37,7 +37,7 @@ const MyProjects = () => {
         <Project
           description={t("description.fooPizzaAPI")}
           name="Pizza Shop Backend"
-          subName="Node Mongodb Jabacript"
+          subName="Node Mongodb Javacript"
           link="https://github.com/peterdinis/PizzaShopBackend"
           firstLinkName="Github"
         />
