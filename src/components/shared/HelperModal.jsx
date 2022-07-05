@@ -58,7 +58,11 @@ export default function SimpleModal() {
 
   return (
     <>
-      <button className="mt-2 text-red-800 text-2xl" type="button" onClick={handleOpen}>
+      <button
+        className="mt-2 text-red-800 text-2xl"
+        type="button"
+        onClick={handleOpen}
+      >
         Uuapp info
       </button>
       <Modal

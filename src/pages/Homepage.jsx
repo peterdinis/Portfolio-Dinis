@@ -13,7 +13,7 @@ function Homepage() {
       <Info />
       <MyProjects />
       <TimeLine />
-     <Knowledge />
+      <Knowledge />
       <ContactInfo />
       <AppFooter />
     </>
