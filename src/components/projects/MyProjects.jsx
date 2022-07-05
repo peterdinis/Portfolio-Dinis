@@ -27,22 +27,6 @@ const MyProjects = () => {
         />
 
         <Project
-          description={t("description.fooPizza")}
-          name="Pizza Shop Frontend"
-          subName="React Javascript"
-          link="https://github.com/peterdinis/PizzaShop-Frontend"
-          firstLinkName="Github"
-        />
-
-        <Project
-          description={t("description.fooPizzaAPI")}
-          name="Pizza Shop Backend"
-          subName="Node Mongodb Javacript"
-          link="https://github.com/peterdinis/PizzaShopBackend"
-          firstLinkName="Github"
-        />
-
-        <Project
           description={t("description.socialGraphAPI")}
           name="Facebook Backend Clone"
           subName="Node Tpyescript Mongodb"
@@ -64,6 +48,22 @@ const MyProjects = () => {
           subName="Python Django"
           link="https://github.com/peterdinis/Django-FoodDeliveryApp"
           firstLinkName="Github"
+        />
+
+        <Project 
+          description={t("description.foodApp")}
+          name="React FoodDeliveryApp"
+          subName="React Vite Typescript"
+          link="https://github.com/peterdinis/React-Ecommerce-FE"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          description={t("description.foodAPI")}
+          name="Django FoodDeliveryApp API"
+          subName="Django-Rest-Framework Postgresql"
+          link="https://github.com/peterdinis/Django-Ecommerce-BE"
+          firstLinkName="Github" 
         />
       </div>
     </div>

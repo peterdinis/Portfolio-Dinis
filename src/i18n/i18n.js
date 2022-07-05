@@ -1,5 +1,7 @@
 import i18n from "i18next";
-import { initReactI18next } from "react-i18next";
+import {
+  initReactI18next
+} from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 
 i18n
@@ -15,12 +17,12 @@ i18n
       en: {
         translation: {
           description: {
+            foodAPI: "Api for food ordering app",
             spotify: "Simple Spotify clone",
             netflix: "Simple Netflix clone",
             shoppingCart: "Simple implement shopping cart in nest",
             overflowAPI: "Backend to the Dev Overflow application",
-            overflow:
-              "A copy stack overflow user can write a question to answer questions",
+            overflow: "A copy stack overflow user can write a question to answer questions",
             foo: "Online food shop",
             fooTshirt: "Online Tshirt Shop",
             fooTshirtBE: "API for online tshirt shop",
@@ -33,10 +35,8 @@ i18n
             doc: "Application for doctors",
             aboutMe: "A few sentences about me",
             foodApp: "Food ordering application",
-            firstSentence:
-              "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
-            secondSentence:
-              "I have the most experience with technologies: React Python Django and Typescript Node.",
+            firstSentence: "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
+            secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
             projectOne: "Spst Library",
@@ -45,14 +45,11 @@ i18n
             projectTwoD: "Backend Api copy of school project",
             projectThreeD: "DevBookAPI",
             projectFourD: "Web game snake",
-            projectFiveD:
-              "Application for tracking restaurants plus the possibility of ordering food",
-            projectSixD:
-              "Photo upload app user can upload photos plus authentication",
+            projectFiveD: "Application for tracking restaurants plus the possibility of ordering food",
+            projectSixD: "Photo upload app user can upload photos plus authentication",
             projectSevenD: "Crud photos plus full authentication",
             work: "My work experience",
-            workOne:
-              "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
+            workOne: "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
@@ -71,10 +68,8 @@ i18n
             fooPizzaAPI: "Pizza shop API",
             buySelling: "Eshop for buying books",
             buySellingsAPI: "Eshop for buying books API",
-            sevenDesc:
-              "A simple control panel administrator can add customer books and issues and see questions from page users",
-            uuappText:
-              "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
+            sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
+            uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
           },
         },
       },
@@ -88,8 +83,7 @@ i18n
             spotify: "Spotify klon",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",
-            overflow:
-              "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
+            overflow: "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
             foodApp: "Aplikácia na objednávanie jedla",
             fooPizza: "Pizza obchod",
@@ -107,10 +101,8 @@ i18n
             crmAPI: "API pre crm",
             bookShop: "Online knižný shop s možnosťou online platieb",
             eshop: "Online burger shop s možnosťou online platieb",
-            firstSentence:
-              "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
-            secondSentence:
-              "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
+            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
+            secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
             newProjectOne: "Jednoduchá e-commerce aplikácia v node",
             myProjects: "Niektoré moje projekty",
@@ -122,15 +114,11 @@ i18n
             projectTwoD: "Backend Api kopia školského projektu",
             projectThreeD: "Api ku projektu DevBook",
             projectFourD: "Webová hra hadík",
-            projectFiveD:
-              "Aplikácia na sledovanie reštaurácií plus možnosť objednávky jedla",
-            projectSixD:
-              "Pridanie obľubených fotiek plus prihlásenie/registrácia/profil",
-            projectSevenD:
-              "Crud operácie na fotografie a funkčné prihlásenie/registrácia/profil",
+            projectFiveD: "Aplikácia na sledovanie reštaurácií plus možnosť objednávky jedla",
+            projectSixD: "Pridanie obľubených fotiek plus prihlásenie/registrácia/profil",
+            projectSevenD: "Crud operácie na fotografie a funkčné prihlásenie/registrácia/profil",
             work: "Moje pracovné skúsenosti",
-            workOne:
-              "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
+            workOne: "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-týždne) Erazmus Firma Think Easy React.js",
             workThree: "(3-Mesiace) Firma Think Easy React.js Typescript",
             knowledge: "Moje znalosti",
@@ -138,10 +126,9 @@ i18n
             uuappHeader: "Čo je uuapp",
             newProject: "Jednoduchá socialna sieť",
             newCompany: "Inver s.r.o",
-            uuappText:
-              "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
-            sevenDesc:
-              "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
+            uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
+            sevenDesc: "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
+            foodAPI: "Api pre aplikáciu na objednávanie jedál"
           },
         },
       },
