@@ -42,22 +42,6 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          description={t("description.foodApp")}
-          name="Food Devlivery App"
-          subName="Python Django"
-          link="https://github.com/peterdinis/Django-FoodDeliveryApp"
-          firstLinkName="Github"
-        />
-
-        <Project 
-          description={t("description.foodApp")}
-          name="React FoodDeliveryApp"
-          subName="React Vite Typescript"
-          link="https://github.com/peterdinis/React-Ecommerce-FE"
-          firstLinkName="Github"
-        />
-
         <Project 
           description={t("description.foodAPI")}
           name="Django FoodDeliveryApp API"
