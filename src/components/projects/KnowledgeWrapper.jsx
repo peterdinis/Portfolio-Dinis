@@ -111,7 +111,7 @@ function KnowledgeWrapper() {
       </div>
 
       <div className="mt-2">
-        <Skill name="DotNet" status="Učím sa..." />
+        <Skill name="Python Django" status="Mierne pokročily..." />
         <BorderLinearProgress variant="determinate" value={30} />
       </div>
 
