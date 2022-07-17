@@ -27,8 +27,8 @@ function Images() {
         className="w-18"
       />
       <img
-        src="https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_400x400.png"
-        alt="Asp.Net"
+        src='https://www.fullstackpython.com/img/logos/django.png'
+        alt="Python Django"
         className="w-18"
       />
       <img
