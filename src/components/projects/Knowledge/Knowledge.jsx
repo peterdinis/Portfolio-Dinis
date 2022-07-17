@@ -1,6 +1,6 @@
 import { useStyles } from "../styles";
 import "./Knowledge.css";
-import KnowledgeWrapper from "../KnowledgeWrapper";
+import KnowledgeWrapper from "../index";
 
 export default function Knowledge() {
   const classes = useStyles();

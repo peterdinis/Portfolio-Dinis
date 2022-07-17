@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import HelperModal from "../../shared/HelperModal";
+import HelperModal from "../../shared/index";
 
 export default function TimeLine() {
   const { t } = useTranslation();

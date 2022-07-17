@@ -1,5 +1,5 @@
 import logo from "../../images/me.jpg";
-import Images from "../Images/Images";
+import Images from "../index";
 import { useTranslation } from "react-i18next";
 
 function Info() {

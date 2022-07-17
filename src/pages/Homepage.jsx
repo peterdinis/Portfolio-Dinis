@@ -1,10 +1,7 @@
-import ContactInfo from "../components/contact/ContactInfo";
-import Hero from "../components/home/Hero";
-import Info from "../components/home/Info";
-import Knowledge from "../components/projects/Knowledge";
-import MyProjects from "../components/projects/MyProjects";
-import Timeline from "../components/projects/TimeLine";
-import AppFooter from "../components/shared/AppFooter";
+import {ContactInfo }from "../components/contact/index";
+import {Hero, Info} from "../components/home/index";
+import {Knowledge, MyProjects, Timeline} from "../components/projects/index";
+import {AppFooter} from "../components/shared/index"
 
 function Homepage() {
   return (

@@ -1,4 +1,4 @@
-import Project from "./Project";
+import Project from "../index";
 import { useTranslation } from "react-i18next";
 
 const MyProjects = () => {
