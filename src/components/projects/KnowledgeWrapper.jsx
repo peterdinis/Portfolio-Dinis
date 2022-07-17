@@ -99,12 +99,6 @@ function KnowledgeWrapper() {
         <Skill name="NodeJs" status="Mierne pokročilý" />
         <BorderLinearProgress variant="determinate" value={60} />
       </div>
-
-      <div className="mt-2">
-        <Skill name="Figma" status="Mierne pokročilý" />
-        <BorderLinearProgress variant="determinate" value={55} />
-      </div>
-
       <div className="mt-2">
         <Skill name="React-Native" status="Mierne pokročilý" />
         <BorderLinearProgress variant="determinate" value={50} />
