@@ -27,7 +27,7 @@ function Images() {
         className="w-18"
       />
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"
+        src="https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_400x400.png"
         alt="Asp.Net"
         className="w-18"
       />
