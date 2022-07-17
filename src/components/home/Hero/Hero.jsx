@@ -1,5 +1,5 @@
 import "./Hero.css";
-import LanguageChange from "../../i18n/LanguageChange";
+import LanguageChange from "../../../i18n/LanguageChange";
 
 function Hero() {
   return (

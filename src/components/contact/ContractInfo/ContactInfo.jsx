@@ -1,5 +1,5 @@
-import Links from "./Links";
-import { Mailto } from "./Mailto";
+import Links from "../Link/Links";
+import { Mailto } from "../Mailto/Mailto";
 import "./Links.css";
 import { useTranslation } from "react-i18next";
 
