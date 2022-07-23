@@ -46,7 +46,7 @@ const MyProjects = () => {
           description={t("description.foodAPI")}
           name="Django FoodDeliveryApp API"
           subName="Django-Rest-Framework Postgresql"
-          link="https://github.com/peterdinis/Django-Ecommerce-BE"
+          link="https://github.com/peterdinis/Django-Food-DeliveryApp"
           firstLinkName="Github" 
         />
 

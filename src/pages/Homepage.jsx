@@ -3,7 +3,7 @@ import Hero from "../components/home/Hero";
 import Info from "../components/home/Info";
 import Knowledge from "../components/projects/Knowledge";
 import MyProjects from "../components/projects/MyProjects";
-import TimeLine from "../components/projects/TimeLine";
+import Timeline from "../components/projects/TimeLine";
 import AppFooter from "../components/shared/AppFooter";
 
 function Homepage() {
@@ -12,7 +12,7 @@ function Homepage() {
       <Hero />
       <Info />
       <MyProjects />
-      <TimeLine />
+      <Timeline />
       <Knowledge />
       <ContactInfo />
       <AppFooter />
