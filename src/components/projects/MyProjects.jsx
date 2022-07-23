@@ -49,6 +49,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Ecommerce-BE"
           firstLinkName="Github" 
         />
+
+        <Project 
+          description={t("description.nodeStart")}
+          name="Node Simple Starter template"
+          subName="Ejs Typescript"
+          link="https://github.com/peterdinis/Node-Typescript-Starter"
+          firstLinkName="Github" 
+        />
       </div>
     </div>
   );
