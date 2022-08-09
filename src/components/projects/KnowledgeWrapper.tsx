@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Box } from "@material-ui/core";
 import { BorderLinearProgress, style } from "./styles";
 import Skill from "./Skill";
