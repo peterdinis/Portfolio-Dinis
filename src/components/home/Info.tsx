@@ -18,19 +18,19 @@ function Info() {
             />
             <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
               <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">
-                {t("description.aboutMe")}
+                {t("description.aboutMe") as any}
               </h1>
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
-                {t("description.firstSentence")}
+                {t("description.firstSentence") as any}
               </p>
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
-                {t("description.secondSentence")}
+                {t("description.secondSentence") as any}
               </p>
               <p className="leading-relaxed text-3xl text-gray-700 mt-6">
-                {t("description.favoriteStack")}
-                <div className="mt-1">
+                {t("description.favoriteStack") as any} 
+                {/* <div className="mt-1">
                   <Images />
-                </div>
+                </div> */}
               </p>
             </div>
           </div>

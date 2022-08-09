@@ -1,3 +1,11 @@
+interface IProject {
+  name: string,
+  description: string
+  subName: string,
+  link: string,
+  firstLinkName: string
+}
+
 function Project(props) {
   return (
     <div className="col-span-4 sm:col-span-4 md:col-span-2 lg:col-span-1 xl:col-span-1 flex flex-col items-center">
