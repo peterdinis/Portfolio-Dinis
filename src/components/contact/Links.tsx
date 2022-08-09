@@ -3,6 +3,7 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import "./Links.css";
+import React from "react";
 
 function Links() {
   return (

@@ -1,4 +1,14 @@
-export const Mailto = ({ email, subject = "", body = "", children }) => {
+import React, {ReactNode} from "react";
+
+interface IMailto {
+  email: string;
+  subject: string;
+  body: string;
+  children: ReactNode;
+}
+
+
+export const Mailto = ({ email, subject, body, children }: IMailto) => {
   let params = subject || body ? "?" : "";
   if (subject) params += `subject=${encodeURIComponent(subject)}`;
   if (body) params += `${subject ? "&" : ""}body=${encodeURIComponent(body)}`;

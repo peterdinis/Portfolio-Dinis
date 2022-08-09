@@ -2,6 +2,7 @@ import Links from "./Links";
 import { Mailto } from "./Mailto";
 import "./Links.css";
 import { useTranslation } from "react-i18next";
+import React from "react";
 
 function ContactInfo() {
   const { t } = useTranslation();

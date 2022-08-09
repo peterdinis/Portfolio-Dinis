@@ -1,3 +1,4 @@
+import React from "react";
 import logo from "../../images/me.jpg";
 import Images from "./Images";
 import { useTranslation } from "react-i18next";
