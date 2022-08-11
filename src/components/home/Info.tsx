@@ -28,9 +28,9 @@ function Info() {
               </p>
               <p className="leading-relaxed text-3xl text-gray-700 mt-6">
                 {t("description.favoriteStack") as any} 
-                {/* <div className="mt-1">
+                <div className="mt-1">
                   <Images />
-                </div> */}
+                </div>
               </p>
             </div>
           </div>
