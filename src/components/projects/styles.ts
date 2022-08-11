@@ -51,7 +51,7 @@ export const modalStyles = makeStyles(
     paper: {
       border: "2px solid #000",
     },
-  })
+  } as any)
 );
 
 export const style = {

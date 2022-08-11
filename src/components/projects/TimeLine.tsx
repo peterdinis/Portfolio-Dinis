@@ -7,7 +7,7 @@ export default function TimeLine() {
   return (
     <div className="pt-2">
       <h1 className="text-center text-4xl mt-4">
-        {t("description.work")} <HelperModal />
+        {t("description.work") as any} <HelperModal />
       </h1>
       <div className="p-4 mt-4">
         <div className="container">
@@ -23,7 +23,7 @@ export default function TimeLine() {
               </div>
               <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                 <h3 className="font-semibold text-lg mb-1">
-                  {t("description.workOne")}
+                  {t("description.workOne") as any}
                 </h3>
               </div>
             </div>
@@ -40,7 +40,7 @@ export default function TimeLine() {
               <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                 <h3 className="font-semibold text-lg mb-1">
                   {" "}
-                  {t("description.workTwo")}
+                  {t("description.workTwo") as any}
                 </h3>
               </div>
             </div>
@@ -57,7 +57,7 @@ export default function TimeLine() {
               <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                 <h3 className="font-semibold text-lg mb-1">
                   {" "}
-                  {t("description.workThree")}
+                  {t("description.workThree") as any}
                 </h3>
               </div>
 
@@ -72,7 +72,7 @@ export default function TimeLine() {
                 </div>
                 <div className="bg-green-500 col-start-4 col-end-12 p-4 rounded-xl my-4 mr-auto shadow-md w-full">
                   <h3 className="font-semibold text-lg mb-1">
-                  {t("description.workFour")}
+                  {t("description.workFour") as any}
                   </h3>
                 </div>
               </div>

@@ -1,10 +1,15 @@
 import React from "react";
 
-function Skill(props) {
+interface IProps {
+  name: string;
+  status: string;
+}
+
+function Skill({name, status}: IProps) {
   return (
     <>
       <h1 className="pt-3 text-3xl ml-2">
-        {props.name} - {props.status}
+        {name} - {status}
       </h1>
     </>
   );
