@@ -42,6 +42,15 @@ function Navbar() {
             Instagram
           </a>
         </li>
+
+        <li className="border-t md:border-none">
+          <a
+            href="https://www.linkedin.com/in/peter-dinis-58520b214/"
+            className="block md:inline-block px-4 py-3 no-underline text-blue-100 text-xl hover:text-grey-darker font-bold"
+          >
+            LinkedIn
+          </a>
+        </li>
       </ul>
     </nav>
   );
