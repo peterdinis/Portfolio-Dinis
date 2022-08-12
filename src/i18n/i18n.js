@@ -63,6 +63,8 @@ i18n
             crmAPI: "API for CRM",
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
+            foodAPI: "API for online food ordering",
+            foodClient: "Application for ordering food",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -74,6 +76,8 @@ i18n
       sk: {
         translation: {
           description: {
+            foodClient: "Aplikácia na objednávanie jedál",
+            foodAPI: "API k online objednávke jedál",
             nodeT: "Jednoduchá template pre prácu z nodejs a typescript",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",

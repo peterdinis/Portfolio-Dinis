@@ -18,7 +18,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-         <Project
+        <Project
           name={t("description.projectTwo")}
           description={t("description.projectTwoD")}
           subName="Nestjs Postgresql"
@@ -26,11 +26,27 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-<Project
+        <Project
           name="Node Typescript Template"
           description={t("description.nodeT")}
           subName="Node js Typescript Ejs"
           link="https://github.com/peterdinis/Node-Typescript-Starter"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.foodClient")}
+          description={t("description.foodClient")}
+          subName="React Typescript"
+          link="https://github.com/peterdinis/React-Food-Delivery"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.foodAPI")}
+          description={t("description.foodAPI")}
+          subName="Python Django Sqlite"
+          link="https://github.com/peterdinis/Django-Food-Delivery-API"
           firstLinkName="Github"
         />
       </div>
