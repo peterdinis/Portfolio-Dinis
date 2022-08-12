@@ -1,11 +1,18 @@
 import React from 'react';
 import { useTranslation } from "react-i18next";
 
-const lngs: any = {
+interface ILanguage {
+  nativeName: string;
+}
+
+interface Language {
+  [key: string]: ILanguage
+}
+
+const lngs: Language = {
   en: { nativeName: "English" },
   sk: { nativeName: "Slovak" },
 };
-
 function LanguageChange() {
   const { i18n } = useTranslation();
 
