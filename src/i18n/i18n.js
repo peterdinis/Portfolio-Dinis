@@ -35,9 +35,10 @@ i18n
             myProjects: "Some of my projects",
             projectOne: "Spst Library FE",
             projectOneD: "Frontend copy of a school project",
-            projectTwo: "SPST API",
+            projectTwo: "Backend API for SPST Library",
             projectTwoD: "Backend Api copy of school project",
             projectThreeD: "DevBookAPI",
+            nodeT: "Simple template for working with nodejs and typescript",
             projectFourD: "Web game snake",
             projectFiveD:
               "Application for tracking restaurants plus the possibility of ordering food",
@@ -73,6 +74,7 @@ i18n
       sk: {
         translation: {
           description: {
+            nodeT: "Jednoduchá template pre prácu z nodejs a typescript",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",
             overflow:
@@ -100,7 +102,7 @@ i18n
             newProjectThree: "Api k e-commerce-app",
             projectOne: "Spšt Knižnica FE",
             projectOneD: "Frontend kopia školského projektu",
-            projectTwo: "SPŠT API",
+            projectTwo: "Backend API ku školskej knižnici",
             projectTwoD: "Backend Api kopia školského projektu",
             projectThreeD: "Api ku projektu DevBook",
             projectFourD: "Webová hra hadík",

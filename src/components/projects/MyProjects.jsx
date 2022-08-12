@@ -13,8 +13,24 @@ const MyProjects = () => {
         <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React React Query Asp.net mysql"
-          link="https://github.com/peterdinis/React-Aspnet-SchollApp"
+          subName="React Typescript React Query Tailwind"
+          link="https://github.com/peterdinis/Spst-Kniznica-Client"
+          firstLinkName="Github"
+        />
+
+         <Project
+          name={t("description.projectTwo")}
+          description={t("description.projectTwoD")}
+          subName="Nestjs Postgresql"
+          link="https://github.com/peterdinis/Spst-Kniznica-Server"
+          firstLinkName="Github"
+        />
+
+<Project
+          name="Node Typescript Template"
+          description={t("description.nodeT")}
+          subName="Node js Typescript Ejs"
+          link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
       </div>
