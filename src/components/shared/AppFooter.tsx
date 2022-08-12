@@ -1,3 +1,5 @@
+import React from "react";
+
 function AppFooter() {
   return (
     <section className="mt-3">

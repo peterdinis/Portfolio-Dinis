@@ -1,4 +1,5 @@
 import { CssBaseline } from "@material-ui/core";
+import React from "react";
 import Navbar from "./components/shared/Navbar";
 import Homepage from "./pages/Homepage";
 

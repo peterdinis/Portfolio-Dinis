@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Box } from "@material-ui/core";
 import { BorderLinearProgress, style } from "./styles";
 import Skill from "./Skill";
@@ -24,7 +24,7 @@ function KnowledgeWrapper() {
   return (
     <>
       <h1 className="text-center text-4xl text-black">
-        {t("description.knowledge")}
+        {t("description.knowledge") as any}
       </h1>
       <div className="buttonWrapper">
         <button

@@ -1,3 +1,4 @@
+import React from 'react';
 import { useStyles } from "./styles";
 import "./Knowledge.css";
 import KnowledgeWrapper from "./KnowledgeWrapper";
