@@ -47,6 +47,16 @@ export default function TimeLine() {
               {t("description.workThree")}
             </TimelineContent>
           </TimelineItem>
+
+          <TimelineItem>
+            <TimelineSeparator>
+              <TimelineDot color="secondary" />
+              <TimelineConnector />
+            </TimelineSeparator>
+            <TimelineContent className="text-2xl">
+              {t("description.workFour")}
+            </TimelineContent>
+          </TimelineItem>
         </Timeline>
       </Paper>
     </div>

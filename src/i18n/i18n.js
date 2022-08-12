@@ -48,6 +48,7 @@ i18n
             workOne:
               "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
+            workFour: "(6-Months) Navisys s.r.o",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             emailInfo: "If you are interested in my work, write to me at",
@@ -86,6 +87,7 @@ i18n
             aboutMe: "Pár viet o mne",
             crm: "Jednoduchý crm systém",
             crmAPI: "API pre crm",
+            workFour: "(6-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",

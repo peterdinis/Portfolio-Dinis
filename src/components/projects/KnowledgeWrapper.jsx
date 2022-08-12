@@ -102,6 +102,11 @@ function KnowledgeWrapper() {
         </div>
 
         <div className="mt-2">
+          <Skill name="Nestjs" status="Mierne pokročilý" />
+          <BorderLinearProgress variant="determinate" value={60} />
+        </div>
+
+        <div className="mt-2">
           <Skill name="Figma" status="Mierne pokročilý" />
           <BorderLinearProgress variant="determinate" value={55} />
         </div>
@@ -112,12 +117,7 @@ function KnowledgeWrapper() {
         </div>
 
         <div className="mt-2">
-          <Skill name="Goolang" status="Učím sa..." />
-          <BorderLinearProgress variant="determinate" value={30} />
-        </div>
-
-        <div className="mt-2">
-          <Skill name="DotNet" status="Učím sa..." />
+          <Skill name="Django" status="Mierne pokročilý..." />
           <BorderLinearProgress variant="determinate" value={30} />
         </div>
 
