@@ -65,6 +65,8 @@ i18n
             newProjectThree: "API for foodStore e-commerce app",
             foodAPI: "API for online food ordering",
             foodClient: "Application for ordering food",
+            foodApp: "Application for ordering food online",
+            foodAppAPI: "Api to online food ordering apps",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -81,6 +83,8 @@ i18n
             nodeT: "Jednoduchá template pre prácu z nodejs a typescript",
             shoppingCart: "Jednoduchá implementácia nákupnej karty v nest",
             overflowAPI: "Backend ku applikáci Dev Overflow",
+            foodApp: "Applikácia kde na objednávanie jedál online",
+            foodAppAPI: "Api ku applikácií na objednávanie jedál online",
             overflow:
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
