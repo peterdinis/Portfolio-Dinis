@@ -18,7 +18,7 @@ function Links() {
           <h3 className="mt-2">Facebook</h3>
         </a>
         <a
-          href="https://www.instagram.com/petodinis/"
+          href="https://www.instagram.com/peterdinis1/"
           className="text-red-800 mt-2 text-3xl"
         >
           <div className="w-18">
