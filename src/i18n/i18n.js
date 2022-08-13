@@ -100,7 +100,7 @@ i18n
             workFour: "(6-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
-              "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Skúsil som to aj na vysokej škole v Žiline, ale tam mi to nevyšlo. Odbor Informatika. Medzi moje záujmy patrí futbal, volejbal.",
+              "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence:
               "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
