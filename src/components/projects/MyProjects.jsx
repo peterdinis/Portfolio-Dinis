@@ -50,7 +50,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-<Project
+        <Project
           name={t("description.foodApp")}
           description={t("description.foodClient")}
           subName="Python Django Html Css Javascript"
