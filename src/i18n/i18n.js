@@ -46,6 +46,8 @@ i18n
               "Photo upload app user can upload photos plus authentication",
             projectSevenD: "Crud photos plus full authentication",
             work: "My work experience",
+            snakeGame: "Snake web game",
+            snakeDesc: "Online web game snake",
             workOne:
               "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
@@ -78,6 +80,8 @@ i18n
       sk: {
         translation: {
           description: {
+            snakeDesc: "Online webová hra had",
+            snakeGame: "Webová hra had",
             foodClient: "Aplikácia na objednávanie jedál",
             foodAPI: "API k online objednávke jedál",
             nodeT: "Jednoduchá template pre prácu z nodejs a typescript",

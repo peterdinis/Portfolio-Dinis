@@ -41,6 +41,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Food-Shop"
           firstLinkName="Github"
         />
+
+        <Project 
+          name={t("description.snakeGame")}
+          description={t("description.snakeDesc")}
+          subName="Html Css Javascript"
+          link="https://github.com/peterdinis/Javascript-Snake-Game"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );
