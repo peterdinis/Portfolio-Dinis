@@ -23,7 +23,6 @@ function KnowledgeWrapper() {
 
   return (
     <>
-      <Paper className="mt-2 pt-2" elevation={3}>
         <h1 className="text-center text-4xl text-black">
           {t("description.knowledge")}
         </h1>
@@ -56,81 +55,127 @@ function KnowledgeWrapper() {
             </Box>
           </Fade>
         </Modal>
+
         <div>
-          <Skill name="Python" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={65} />
-        </div>
+        <div className="w-full grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">React</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Javascript" status="Mierne pokročily" />
-          <BorderLinearProgress variant="determinate" value={65} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Typescript</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Python Django" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={65} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">React-Query</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Typescript" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={60} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Javascript</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Javascript" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={60} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Nestjs</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="React" status="Pokročilý" />
-          <BorderLinearProgress variant="determinate" value={80} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Postgresql</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="NextJs" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={80} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Python Django</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="React Redux" status="Pokročilý" />
-          <BorderLinearProgress variant="determinate" value={80} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">React-Query</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="NodeJs" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={60} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Mysql</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Nestjs" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={60} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">MongoDB</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Figma" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={55} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Python</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="React-Native" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={50} />
-        </div>
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Html</h3>
+                    </div>
+                </div>
 
-        <div className="mt-2">
-          <Skill name="Django" status="Mierne pokročilý..." />
-          <BorderLinearProgress variant="determinate" value={30} />
+                <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
+                    <div className="p-4 rounded">
+                        <img className="w-20" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+                    </div>
+                    <div className="ml-6">
+                        <h3 className="mb-1 leading-5 text-gray-800 dark:text-gray-100 font-bold text-2xl">Css</h3>
+                    </div>
+                </div>
+            </div>
         </div>
-
-        <div className="mt-2">
-          <Skill name="Postgresql" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={50} />
-        </div>
-
-        <div className="mt-2">
-          <Skill name="MongoDB" status="Mierne pokročilý" />
-          <BorderLinearProgress variant="determinate" value={50} />
-        </div>
-      </Paper>
     </>
   );
 }
