@@ -1,19 +1,5 @@
-import { makeStyles, createStyles, withStyles } from "@material-ui/core/styles";
-import LinearProgress from "@material-ui/core/LinearProgress";
+import { makeStyles, createStyles } from "@material-ui/core/styles";
 
-export const BorderLinearProgress = withStyles(() =>
-  createStyles({
-    root: {
-      marginTop: 8,
-      height: 10,
-      borderRadius: 7,
-    },
-    bar: {
-      borderRadius: 7,
-      backgroundColor: "#006699",
-    },
-  })
-)(LinearProgress);
 
 export const useStyles = makeStyles({
   root: {
