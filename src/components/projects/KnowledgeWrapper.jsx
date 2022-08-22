@@ -109,6 +109,16 @@ function KnowledgeWrapper() {
             image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
             name="Css"
           />
+
+          <KnowledgeCard 
+            image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"
+            name="Graphql"
+          />
+
+          <KnowledgeCard  
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-D_tFNlQGKLwzchAhP9cHHCOzKecYqm0bHwE8i6YFZNsPT0ZWrgjl4h11JyVNy0I9CQ&usqp=CAU"
+            name="React-Native"
+          />
         </div>
       </div>
     </>
