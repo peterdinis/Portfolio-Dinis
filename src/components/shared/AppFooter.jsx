@@ -8,7 +8,7 @@ function AppFooter() {
               href="/"
               className="text-3xl leading-6 text-gray-800 hover:text-gray-900"
             >
-              &copy;Peter Dinis 2021
+              &copy;Peter Dinis 2022
             </a>
           </div>
         </nav>
