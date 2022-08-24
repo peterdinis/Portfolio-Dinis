@@ -7,6 +7,10 @@ import Fade from "@material-ui/core/Fade";
 import "./Knowledge.css";
 import { useTranslation } from "react-i18next";
 import KnowledgeCard from "./KnowledgeCard";
+import reactLogo from "../../images/react.png";
+import typescriptLogo from "../../images/typescript.png"
+import queryLogo from "../../images/query.svg"
+import javascriptLogo from "../../images/javascript.png";
 
 function KnowledgeWrapper() {
   const [open, setOpen] = useState(false);
@@ -59,15 +63,15 @@ function KnowledgeWrapper() {
       <div>
         <div className="w-full grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
           <KnowledgeCard
-            image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+            image={reactLogo}
             name="React"
           />
           <KnowledgeCard
-            image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+            image={typescriptLogo}
             name="Typescript"
           />
           <KnowledgeCard
-            image="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"
+            image={queryLogo}
             name="React-Query"
           />
           <KnowledgeCard

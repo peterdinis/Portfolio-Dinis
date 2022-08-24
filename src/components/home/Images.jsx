@@ -38,7 +38,7 @@ function Images() {
       />
       <img
         src={djangoLogo}
-        alt="Python DJango"
+        alt="Python Django"
         className="w-18"
       />
       <img
