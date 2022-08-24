@@ -1,5 +1,12 @@
 import pgLogo from "../../images/pg.png";
 import queryLogo from "../../images/query.svg"
+import nativeLogo from "../../images/native.png"
+import typescriptLogo from "../../images/typescript.png"
+import graphqlLogo from "../../images/graphql.png";
+import djangoLogo from "../../images/django-logo.png";
+import expressLogo from "../../images/express.png";
+import reactLogo from "../../images/react.png";
+import nestjsLogo from "../../images/nestjs.svg"
 
 function Images() {
   return (
@@ -15,37 +22,37 @@ function Images() {
         className="w-18"
       />
       <img
-        src="https://mkharibalaji.github.io/react-native-adyen-payment/rn_logo.png"
+        src={nativeLogo}
         alt="React-Native"
         className="w-18 "
       />
       <img
-        src="https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png"
+        src={typescriptLogo}
         alt="Typescript"
         className="w-18"
       />
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"
+        src={graphqlLogo}
         alt="Graphql"
         className="w-18"
       />
       <img
-        src="https://brandlogos.net/wp-content/uploads/2021/11/django-logo.png"
+        src={djangoLogo}
         alt="Python DJango"
         className="w-18"
       />
       <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTboM_bCClquhBlDUWeyL_xnZr_5a3KqQ2FZA&usqp=CAU"
+        src={expressLogo}
         alt="Express"
         className="w-18"
       />
       <img
-        src="https://www.sportsengineers.com/wp-content/uploads/2015/05/react-logo-570x570.png"
+        src={reactLogo}
         alt="React"
         className="w-18"
       />
       <img
-        src="https://docs.nestjs.com/assets/logo-small.svg"
+        src={nestjsLogo}
         alt="Nestjs"
         className="w-18"
       />
