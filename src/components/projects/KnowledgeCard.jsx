@@ -7,6 +7,7 @@ function KnowledgeCard(props) {
         <img
           className="w-20"
           src={props.image}
+          alt="KnowledgePicture"
         />
       </div>
       <div className="ml-6">
