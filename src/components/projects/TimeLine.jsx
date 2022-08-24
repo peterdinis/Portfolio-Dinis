@@ -21,7 +21,7 @@ export default function TimeLine() {
         <Timeline className={classes.timeline} align="alternate">
           <TimelineItem>
             <TimelineSeparator>
-              <TimelineDot />
+              <TimelineDot color="primary" />
               <TimelineConnector />
             </TimelineSeparator>
             <TimelineContent className="text-2xl">
@@ -40,7 +40,7 @@ export default function TimeLine() {
           </TimelineItem>
           <TimelineItem>
             <TimelineSeparator>
-              <TimelineDot color="secondary" />
+              <TimelineDot color="primary" />
               <TimelineConnector />
             </TimelineSeparator>
             <TimelineContent className="text-2xl">
