@@ -16,7 +16,7 @@ function Info() {
               src={logo}
             />
             <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-              <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">
+              <h1 className="text-red-900 text-3xl title-font font-medium mb-1">
                 {t("description.aboutMe")}
               </h1>
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
