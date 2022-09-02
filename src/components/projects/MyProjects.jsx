@@ -43,10 +43,18 @@ const MyProjects = () => {
         />
 
         <Project 
-          name={t("description.snakeGame")}
-          description={t("description.snakeDesc")}
-          subName="Html Css Javascript"
-          link="https://github.com/peterdinis/Javascript-Snake-Game"
+          name={t("description.frontendApp")}
+          description={t("description.frontendDesc")}
+          subName="React Typescript React-Query Tailwind"
+          link="https://github.com/peterdinis/React-SocialSiteClient"
+          firstLinkName="Github"
+        />
+
+      <Project 
+          name={t("description.backendApp")}
+          description={t("description.backendDesc")}
+          subName="Python Django"
+          link="https://github.com/peterdinis/Django-SocialSiteAPI"
           firstLinkName="Github"
         />
       </div>
