@@ -70,9 +70,9 @@ i18n
             foodApp: "Application for ordering food online",
             foodAppAPI: "Api to online food ordering apps",
             frontendApp: "Frontend to the social network",
-            frontendDesc: "A simple social network similar to Facebook",
+            frontendDesc: "A simple social network similar to TikTok",
             backendApp: "API to the social network",
-            backendDesc: "A simple social network similar to Facebook",
+            backendDesc: "A simple social network similar to TikTok",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -138,9 +138,9 @@ i18n
             uuappHeader: "Čo je uuapp",
             newProject: "Jednoduchá socialna sieť",
             frontendApp: "Frontend k socialnej sieti",
-            frontendDesc: "Jednoduchá socialna sieť podobná facebooku",
+            frontendDesc: "Jednoduchá socialna sieť podobná tiktoku",
             backendApp: "API k socialnej sieti",
-            backendDesc: "Jednoduchá socialna sieť podobná facebooku",
+            backendDesc: "Jednoduchá socialna sieť podobná tiktoku",
             uuappText:
               "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
             sevenDesc:
