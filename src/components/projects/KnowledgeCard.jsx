@@ -1,5 +1,3 @@
-import React from "react";
-
 function KnowledgeCard(props) {
   return (
     <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
