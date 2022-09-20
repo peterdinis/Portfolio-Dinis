@@ -41,22 +41,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Food-Shop"
           firstLinkName="Github"
         />
-
-        <Project 
-          name={t("description.frontendApp")}
-          description={t("description.frontendDesc")}
-          subName="React Typescript React-Query Tailwind"
-          link="https://github.com/peterdinis/Tik-Tok-Clone-Frontend"
-          firstLinkName="Github"
-        />
-
-      <Project 
-          name={t("description.backendApp")}
-          description={t("description.backendDesc")}
-          subName="Node Typescript Typeorm"
-          link="https://github.com/peterdinis/Tik-Tok-Clone-Backend"
-          firstLinkName="Github"
-        />
       </div>
     </div>
   );
