@@ -14,7 +14,7 @@ const MyProjects = () => {
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
           subName="React Typescript React Query Tailwind"
-          link="https://github.com/peterdinis/SpstKniznica"
+          link="https://github.com/peterdinis/Spst-Kniznica-Client"
           firstLinkName="Github"
         />
 
@@ -22,7 +22,7 @@ const MyProjects = () => {
           name={t("description.projectTwo")}
           description={t("description.projectTwoD")}
           subName="Nestjs Postgresql"
-          link="https://github.com/peterdinis/SpstKniznica-API"
+          link="https://github.com/peterdinis/Spst-Kniznica-Server"
           firstLinkName="Github"
         />
 
