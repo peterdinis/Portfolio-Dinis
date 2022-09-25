@@ -33,11 +33,20 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
-        <Project 
-          name={t("description.frontendApp")}
-          description={t("description.frontendDesc")}
-          subName="React Typescript React-Query Tailwind Python Django"
-          link="https://github.com/peterdinis/Django-React-SocialSite"
+
+        <Project
+          name={t("description.foodApp")}
+          description={t("description.foodClient")}
+          subName="React Typescript "
+          link="https://github.com/peterdinis/React-Shop"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.foodApp")}
+          description={t("description.foodAPI")}
+          subName="Python Django Postgresql"
+          link="https://github.com/peterdinis/Django-Shop-API"
           firstLinkName="Github"
         />
       </div>

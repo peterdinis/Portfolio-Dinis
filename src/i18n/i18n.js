@@ -51,7 +51,7 @@ i18n
             workOne:
               "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
-            workFour: "(6-Months) Navisys s.r.o",
+            workFour: "(7-Months) Navisys s.r.o",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             emailInfo: "If you are interested in my work, write to me at",
@@ -60,9 +60,6 @@ i18n
             newCompany: "Inver s.r.o",
             insta: "Instagram clone",
             instaBE: "API for instagram",
-            newProjectOne: "Simple e-commerce application in node",
-            crm: "Simple CRM management system",
-            crmAPI: "API for CRM",
             newProjectTwo: "Client for foodStore e-commerce app",
             newProjectThree: "API for foodStore e-commerce app",
             foodAPI: "API for online food ordering",
@@ -70,9 +67,9 @@ i18n
             foodApp: "Application for ordering food online",
             foodAppAPI: "Api to online food ordering apps",
             frontendApp: "Frontend to the social network",
-            frontendDesc: "A simple social network similar to Facebook",
+            frontendDesc: "A simple social network similar to TikTok",
             backendApp: "API to the social network",
-            backendDesc: "A simple social network similar to Facebook",
+            backendDesc: "A simple social network similar to TikTok",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText:
@@ -103,9 +100,7 @@ i18n
             insta: "Kópia Instagramu",
             instaBE: "Backend instagram",
             aboutMe: "Pár viet o mne",
-            crm: "Jednoduchý crm systém",
-            crmAPI: "API pre crm",
-            workFour: "(6-Mesiacov) Navisys s.r.o",
+            workFour: "(7-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
@@ -138,9 +133,9 @@ i18n
             uuappHeader: "Čo je uuapp",
             newProject: "Jednoduchá socialna sieť",
             frontendApp: "Frontend k socialnej sieti",
-            frontendDesc: "Jednoduchá socialna sieť podobná facebooku",
+            frontendDesc: "Jednoduchá socialna sieť podobná tiktoku",
             backendApp: "API k socialnej sieti",
-            backendDesc: "Jednoduchá socialna sieť podobná facebooku",
+            backendDesc: "Jednoduchá socialna sieť podobná tiktoku",
             uuappText:
               "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
             sevenDesc:
