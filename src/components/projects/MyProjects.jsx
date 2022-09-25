@@ -33,15 +33,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
-
-        <Project
-          name={t("description.foodApp")}
-          description={t("description.foodClient")}
-          subName="Python Django Html Css Javascript"
-          link="https://github.com/peterdinis/Django-Food-Shop"
-          firstLinkName="Github"
-        />
-
         <Project 
           name={t("description.frontendApp")}
           description={t("description.frontendDesc")}
