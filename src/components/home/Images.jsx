@@ -2,7 +2,7 @@ import pgLogo from "../../images/pg.png";
 import queryLogo from "../../images/query.svg"
 import nativeLogo from "../../images/native.png"
 import typescriptLogo from "../../images/typescript.png"
-import graphqlLogo from "../../images/graphql.png";
+import jestLogo from "../../images/jest.png";
 import djangoLogo from "../../images/django-logo.png";
 import expressLogo from "../../images/express.png";
 import reactLogo from "../../images/react.png";
@@ -32,8 +32,8 @@ function Images() {
         className="w-18"
       />
       <img
-        src={graphqlLogo}
-        alt="Graphql"
+        src={jestLogo}
+        alt="Jest"
         className="w-18"
       />
       <img
