@@ -19,7 +19,6 @@ import mongodbLogo from "../../images/mongodb.png";
 import pythonLogo from "../../images/python.jpg";
 import htmlLogo from "../../images/html.png";
 import cssLogo from "../../images/css.png";
-import graphqlLogo from "../../images/graphql.png";
 import nativeLogo from "../../images/native.png";
 import jestLogo from "../../images/jest.png";
 
@@ -123,11 +122,6 @@ function KnowledgeWrapper() {
           <KnowledgeCard
             image={cssLogo}
             name="Css"
-          />
-
-          <KnowledgeCard 
-            image={graphqlLogo}
-            name="Graphql"
           />
 
           <KnowledgeCard  
