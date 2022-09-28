@@ -3,7 +3,6 @@ import { useTranslation } from "react-i18next";
 
 const MyProjects = () => {
   const { t } = useTranslation();
-
   return (
     <div className="mt-1">
       <h1 className="text-center mt-4 text-4xl">
@@ -37,7 +36,7 @@ const MyProjects = () => {
         <Project
           name={t("description.foodApp")}
           description={t("description.foodClient")}
-          subName="React Typescript "
+          subName="React Typescript React-Query "
           link="https://github.com/peterdinis/React-Shop"
           firstLinkName="Github"
         />
@@ -47,6 +46,22 @@ const MyProjects = () => {
           description={t("description.foodAPI")}
           subName="Python Django Postgresql"
           link="https://github.com/peterdinis/Django-Shop-API"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name=""
+          description=""
+          subName="React Graphql Typescript"
+          link=""
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name=""
+          description=""
+          subName="Nestjs Graphql Typeorm Postgresql"
+          link=""
           firstLinkName="Github"
         />
       </div>
