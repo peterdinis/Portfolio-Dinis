@@ -50,16 +50,16 @@ const MyProjects = () => {
         />
 
         <Project 
-          name={t("description.socialSite")}
-          description={t("description.socialSite")}
+          name={t("description.socialGraphql")}
+          description={t("description.insta")}
           subName="React Graphql Typescript"
           link="https://github.com/peterdinis/React-Graphql-SocialSite"
           firstLinkName="Github"
         />
 
         <Project 
-          name={t("description.instaBe")}
-          description={t("description.instaBe")}
+          name={t("description.instaBE")}
+          description={t("description.instaBE")}
           subName="Nestjs Graphql Typeorm Postgresql"
           link="https://github.com/peterdinis/Grahpql-Nest-API"
           firstLinkName="Github"
