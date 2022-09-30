@@ -60,8 +60,8 @@ const MyProjects = () => {
         <Project 
           name={t("description.instaBE")}
           description={t("description.instaBE")}
-          subName="Nestjs Graphql Typeorm Postgresql"
-          link="https://github.com/peterdinis/Grahpql-Nest-API"
+          subName="Django Python Graphql"
+          link="https://github.com/peterdinis/Django-Graphql-SocialSiteAPI"
           firstLinkName="Github"
         />
       </div>
