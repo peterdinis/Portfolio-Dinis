@@ -56,6 +56,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Graphql-SocialSiteAPI"
           firstLinkName="Github"
         />
+
+        <Project 
+          name={t("description.disneyClone")}
+          description={t("description.disneyClone")}
+          subName="React Typescript Styled-Components Firebase"
+          link="https://github.com/peterdinis/Disney-Plus-Clone-React"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );

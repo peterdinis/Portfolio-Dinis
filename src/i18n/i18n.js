@@ -15,6 +15,7 @@ i18n
       en: {
         translation: {
           description: {
+            disneyClone: "Disney+ clone",
             shoppingCart: "Simple implement shopping cart in nest",
             overflowAPI: "Backend to the Dev Overflow application",
             overflow:
@@ -90,6 +91,7 @@ i18n
             overflowAPI: "Backend ku applikáci Dev Overflow",
             foodApp: "Applikácia kde na objednávanie jedál online",
             foodAppAPI: "Api ku applikácií na objednávanie jedál online",
+            disneyClone: "Klon stránky Disney+",
             overflow:
               "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
