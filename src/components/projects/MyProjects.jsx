@@ -36,16 +36,8 @@ const MyProjects = () => {
         <Project
           name={t("description.foodApp")}
           description={t("description.foodClient")}
-          subName="React Typescript React-Query "
-          link="https://github.com/peterdinis/React-Shop"
-          firstLinkName="Github"
-        />
-
-        <Project
-          name={t("description.foodApp")}
-          description={t("description.foodAPI")}
-          subName="Python Django Postgresql"
-          link="https://github.com/peterdinis/Django-Shop-API"
+          subName="React Typescript Firebase"
+          link="https://github.com/peterdinis/React-Firebase-Shop"
           firstLinkName="Github"
         />
 
