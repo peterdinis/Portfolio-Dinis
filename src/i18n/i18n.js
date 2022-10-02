@@ -18,15 +18,11 @@ i18n
             disneyClone: "Disney+ clone",
             shoppingCart: "Simple implement shopping cart in nest",
             overflowAPI: "Backend to the Dev Overflow application",
-            overflow:
-              "A copy stack overflow user can write a question to answer questions",
             foo: "Online food shop",
             socialGraphAPI: "Api for dev tweet",
             eshop: "Online burger-shop plus payments",
             eshopAPI: "API for online shop",
             socialGraphql: "Simple Social site instagram clone",
-            devOverflow: "API clone for stack overflow",
-            doc: "Application for doctors",
             aboutMe: "A few sentences about me",
             firstSentence:
               "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
@@ -40,9 +36,6 @@ i18n
             projectTwoD: "Backend Api copy of school project",
             projectThreeD: "DevBookAPI",
             nodeT: "Simple template for working with nodejs and typescript",
-            projectFourD: "Web game snake",
-            projectFiveD:
-              "Application for tracking restaurants plus the possibility of ordering food",
             projectSixD:
               "Photo upload app user can upload photos plus authentication",
             projectSevenD: "Crud photos plus full authentication",
@@ -92,8 +85,6 @@ i18n
             foodApp: "Applikácia kde na objednávanie jedál online",
             foodAppAPI: "Api ku applikácií na objednávanie jedál online",
             disneyClone: "Klon stránky Disney+",
-            overflow:
-              "Kópia stack overflow používateľ vie napísať otázku odpovedať na otázky",
             foo: "Online shop na nákup jedla",
             socialGraphAPI: "API k sociálnej siete",
             socialGraphql: "Jednoduchá socialná sieť podobná instagramu",
@@ -102,7 +93,7 @@ i18n
             insta: "Kópia Instagramu",
             instaBE: "Backend instagram",
             aboutMe: "Pár viet o mne",
-            workFour: "(7-Mesiacov) Navisys s.r.o",
+            workFour: "(8-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
@@ -117,14 +108,7 @@ i18n
             projectOneD: "Frontend kopia školského projektu",
             projectTwo: "Backend API ku školskej knižnici",
             projectTwoD: "Backend Api kopia školského projektu",
-            projectThreeD: "Api ku projektu DevBook",
             projectFourD: "Webová hra hadík",
-            projectFiveD:
-              "Aplikácia na sledovanie reštaurácií plus možnosť objednávky jedla",
-            projectSixD:
-              "Pridanie obľubených fotiek plus prihlásenie/registrácia/profil",
-            projectSevenD:
-              "Crud operácie na fotografie a funkčné prihlásenie/registrácia/profil",
             work: "Moje pracovné skúsenosti",
             workOne:
               "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
