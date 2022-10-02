@@ -1,5 +1,7 @@
 import i18n from "i18next";
-import { initReactI18next } from "react-i18next";
+import {
+  initReactI18next
+} from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 
 i18n
@@ -20,10 +22,8 @@ i18n
             eshopAPI: "API for online shop",
             socialGraphql: "Simple Social site instagram clone",
             aboutMe: "A few sentences about me",
-            firstSentence:
-              "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov",
-            secondSentence:
-              "I have the most experience with technologies: React Python Django and Typescript Node.",
+            firstSentence: "Hi My name is Peter Dinis. I am 21 years old. I come from Bardejov. I visited Secondary industrial school(SPST) in Bardejov. My favorite sports are Football and Voleyball",
+            secondSentence: "I have the most experience with technologies: React Python Django and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
             projectOne: "Spst Library FE",
@@ -32,14 +32,12 @@ i18n
             projectTwoD: "Backend Api copy of school project",
             projectThreeD: "DevBookAPI",
             nodeT: "Simple template for working with nodejs and typescript",
-            projectSixD:
-              "Photo upload app user can upload photos plus authentication",
+            projectSixD: "Photo upload app user can upload photos plus authentication",
             projectSevenD: "Crud photos plus full authentication",
             work: "My work experience",
             snakeGame: "Snake web game",
             snakeDesc: "Online web game snake",
-            workOne:
-              "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
+            workOne: "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
             workFour: "(7-Months) Navisys s.r.o",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
@@ -47,7 +45,6 @@ i18n
             emailInfo: "If you are interested in my work, write to me at",
             uuappHeader: "What is uuapp",
             newProject: "Simple social site",
-            newCompany: "Inver s.r.o",
             insta: "Instagram clone",
             instaBE: "API for instagram",
             newProjectTwo: "Client for foodStore e-commerce app",
@@ -60,10 +57,8 @@ i18n
             frontendDesc: "A simple social network similar to TikTok",
             backendApp: "API to the social network",
             backendDesc: "A simple social network similar to TikTok",
-            sevenDesc:
-              "A simple control panel administrator can add customer books and issues and see questions from page users",
-            uuappText:
-              "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
+            sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
+            uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
           },
         },
       },
@@ -87,10 +82,8 @@ i18n
             aboutMe: "Pár viet o mne",
             workFour: "(8-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
-            firstSentence:
-              "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
-            secondSentence:
-              "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
+            firstSentence: "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
+            secondSentence: "Najväčšie skúsenosti mám z technológiami: React Python Django a Typescript Node.",
             favoriteStack: "Môj obľubený stack",
             newProjectOne: "Jednoduchá e-commerce aplikácia v node",
             myProjects: "Niektoré moje projekty",
@@ -102,8 +95,7 @@ i18n
             projectTwoD: "Backend Api kopia školského projektu",
             projectFourD: "Webová hra hadík",
             work: "Moje pracovné skúsenosti",
-            workOne:
-              "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
+            workOne: "(1-rok) Školská knižnica projekt Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-týždne) Erazmus Firma Think Easy React.js",
             workThree: "(3-Mesiace) Firma Think Easy React.js Typescript",
             knowledge: "Moje znalosti",
@@ -114,10 +106,8 @@ i18n
             frontendDesc: "Jednoduchá socialna sieť podobná tiktoku",
             backendApp: "API k socialnej sieti",
             backendDesc: "Jednoduchá socialna sieť podobná tiktoku",
-            uuappText:
-              "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
-            sevenDesc:
-              "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
+            uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
+            sevenDesc: "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
           },
         },
       },
