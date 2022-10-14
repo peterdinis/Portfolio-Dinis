@@ -35,10 +35,18 @@ const MyProjects = () => {
 
         <Project
           name={t("description.foodApp")}
-          description={t("description.foodClient")}
-          subName="React Typescript Asp.Net"
+          description={t("description.foodAppAPI")}
+          subName="Asp.net Postgresql"
           link="https://github.com/peterdinis/Pizza-FullStack-Shop"
           firstLinkName="Github"
+        />
+
+        <Project 
+        name={t("description.foodApp")}
+        description={t("description.foodClient")}
+        subName="React Typescript React-Query"
+        link="https://github.com/peterdinis/Pizza-Shop-Frontend"
+        firstLinkName="Github"
         />
 
         <Project 
