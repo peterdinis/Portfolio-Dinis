@@ -42,22 +42,6 @@ const MyProjects = () => {
         />
 
         <Project 
-          name={t("description.socialGraphql")}
-          description={t("description.insta")}
-          subName="React Graphql Typescript"
-          link="https://github.com/peterdinis/React-Graphql-SocialSite"
-          firstLinkName="Github"
-        />
-
-        <Project 
-          name={t("description.instaBE")}
-          description={t("description.instaBE")}
-          subName="Django Python Graphql"
-          link="https://github.com/peterdinis/Django-Graphql-SocialSiteAPI"
-          firstLinkName="Github"
-        />
-
-        <Project 
           name={t("description.disneyClone")}
           description={t("description.disneyClone")}
           subName="React Typescript Styled-Components Firebase"
