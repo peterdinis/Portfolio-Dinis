@@ -42,6 +42,14 @@ const MyProjects = () => {
         />
 
         <Project 
+         name={t("description.socialGraphql")}
+         description={t("description.socialGraphql")}
+         subName="React Typescript Asp.NET"
+         link="https://github.com/peterdinis/Social-Site-React-C-Sharp"
+         firstLinkName="Github"
+        />
+
+        <Project 
           name={t("description.disneyClone")}
           description={t("description.disneyClone")}
           subName="React Typescript Styled-Components Firebase"
