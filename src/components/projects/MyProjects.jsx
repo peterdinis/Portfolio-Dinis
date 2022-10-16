@@ -3,7 +3,6 @@ import { useTranslation } from "react-i18next";
 
 const MyProjects = () => {
   const { t } = useTranslation();
-
   return (
     <div className="mt-1">
       <h1 className="text-center mt-4 text-4xl">
@@ -34,19 +33,27 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project
-          name={t("description.foodApp")}
-          description={t("description.foodClient")}
-          subName="React Typescript "
-          link="https://github.com/peterdinis/React-Shop"
-          firstLinkName="Github"
+        <Project 
+        name={t("description.foodApp")}
+        description={t("description.foodClient")}
+        subName="React Typescript React-Query"
+        link="https://github.com/peterdinis/Pizza-Shop-Frontend"
+        firstLinkName="Github"
         />
 
-        <Project
-          name={t("description.foodApp")}
-          description={t("description.foodAPI")}
-          subName="Python Django Postgresql"
-          link="https://github.com/peterdinis/Django-Shop-API"
+        <Project 
+         name={t("description.socialGraphql")}
+         description={t("description.socialGraphql")}
+         subName="React Typescript Asp.NET"
+         link="https://github.com/peterdinis/Social-Site-React-C-Sharp"
+         firstLinkName="Github"
+        />
+
+        <Project 
+          name={t("description.disneyClone")}
+          description={t("description.disneyClone")}
+          subName="React Typescript Styled-Components Firebase"
+          link="https://github.com/peterdinis/Disney-Plus-Clone-React"
           firstLinkName="Github"
         />
       </div>

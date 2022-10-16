@@ -1,6 +1,7 @@
 import logo from "../../images/me.jpg";
 import Images from "./Images";
 import { useTranslation } from "react-i18next";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function Info() {
   const { t } = useTranslation();
@@ -10,7 +11,7 @@ function Info() {
       <section className="text-gray-700 body-font overflow-hidden bg-white">
         <div className="container px-5 py-24 mx-auto">
           <div className="lg:w-4/5 mx-auto flex mt-1 flex-wrap">
-            <img
+            <LazyLoadImage
               alt="me"
               className="lg:w-1/2 w-full object-cover object-center rounded-3xl border border-gray-500"
               src={logo}

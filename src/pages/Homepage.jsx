@@ -4,7 +4,7 @@ import Info from "../components/home/Info";
 import Knowledge from "../components/projects/Knowledge";
 import MyProjects from "../components/projects/MyProjects";
 import TimeLine from "../components/projects/TimeLine";
-import AppFooter from "../components/shared/AppFooter";
+import Footer from "../components/shared/Footer";
 
 function Homepage() {
   return (
@@ -15,7 +15,7 @@ function Homepage() {
       <TimeLine />
       <Knowledge />
       <ContactInfo />
-      <AppFooter />
+      <Footer />
     </>
   );
 }

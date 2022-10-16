@@ -14,8 +14,7 @@ import javascriptLogo from "../../images/javascript.png";
 import nestjsLogo from "../../images/nestjs.svg"
 import pgLogo from "../../images/pg.png";
 import djangoLogo from "../../images/django-logo.png";
-import mysqlLogo from "../../images/mysql.png";
-import mongodbLogo from "../../images/mongodb.png";
+import firebase from "../../images/firebase.png"
 import pythonLogo from "../../images/python.jpg";
 import htmlLogo from "../../images/html.png";
 import cssLogo from "../../images/css.png";
@@ -101,12 +100,8 @@ function KnowledgeWrapper() {
             name="Python Django"
           />
           <KnowledgeCard
-            image={mysqlLogo}
-            name="Mysql"
-          />
-          <KnowledgeCard
-            image={mongodbLogo}
-            name="MongoDB"
+            image={firebase}
+            name="Firebase"
           />
 
           <KnowledgeCard

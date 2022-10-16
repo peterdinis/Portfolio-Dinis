@@ -1,8 +1,10 @@
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+
 function KnowledgeCard(props) {
   return (
     <div className="bg-white dark:bg-gray-800 rounded shadow px-8 py-6 flex items-center">
       <div className="p-4 rounded">
-        <img
+        <LazyLoadImage
           className="w-20"
           src={props.image}
           alt="KnowledgePicture"
