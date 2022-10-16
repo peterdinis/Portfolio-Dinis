@@ -51,7 +51,7 @@ i18n
             workOne:
               "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
-            workFour: "(7-Months) Navisys s.r.o",
+            workFour: "(8-Months) Navisys s.r.o",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             emailInfo: "If you are interested in my work, write to me at",
@@ -100,7 +100,7 @@ i18n
             insta: "Kópia Instagramu",
             instaBE: "Backend instagram",
             aboutMe: "Pár viet o mne",
-            workFour: "(7-Mesiacov) Navisys s.r.o",
+            workFour: "(8-Mesiacov) Navisys s.r.o",
             eshop: "Online burger shop s možnosťou online platieb",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 21 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
