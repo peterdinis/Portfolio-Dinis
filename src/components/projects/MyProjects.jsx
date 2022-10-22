@@ -33,27 +33,35 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
-        name={t("description.foodApp")}
-        description={t("description.foodClient")}
-        subName="React Typescript React-Query"
-        link="https://github.com/peterdinis/Pizza-Shop-Frontend"
-        firstLinkName="Github"
+        <Project
+          name={t("description.foodApp")}
+          description={t("description.foodClient")}
+          subName="React Typescript React-Query"
+          link="https://github.com/peterdinis/Pizza-Shop-Frontend"
+          firstLinkName="Github"
         />
 
-        <Project 
-         name={t("description.socialGraphql")}
-         description={t("description.socialGraphql")}
-         subName="React Typescript Asp.NET"
-         link="https://github.com/peterdinis/Social-Site-React-C-Sharp"
-         firstLinkName="Github"
+        <Project
+          name={t("description.socialGraphql")}
+          description={t("description.socialGraphql")}
+          subName="React Typescript Asp.NET"
+          link="https://github.com/peterdinis/Social-Site-React-C-Sharp"
+          firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           name={t("description.disneyClone")}
           description={t("description.disneyClone")}
           subName="React Typescript Styled-Components Firebase"
           link="https://github.com/peterdinis/Disney-Plus-Clone-React"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.ecommerceSimple")}
+          description={t("description.ecommerceSimple")}
+          subName="React Typescript Laravel"
+          link="https://github.com/peterdinis/Laravel-React-EShop"
           firstLinkName="Github"
         />
       </div>

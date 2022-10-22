@@ -18,6 +18,7 @@ i18n
         translation: {
           description: {
             disneyClone: "Disney+ clone",
+            ecommerceSimple: "Online shop for selling t-shirts",
             foo: "Online food shop",
             eshopAPI: "API for online shop",
             socialGraphql: "Simple Social site instagram clone",
@@ -66,6 +67,7 @@ i18n
       sk: {
         translation: {
           description: {
+            ecommerceSimple: "Online shop na predaj tričiek",
             snakeDesc: "Online webová hra had",
             snakeGame: "Webová hra had",
             foodClient: "Aplikácia na objednávanie jedál",
