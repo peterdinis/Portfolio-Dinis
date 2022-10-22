@@ -60,8 +60,8 @@ const MyProjects = () => {
         <Project
           name={t("description.ecommerceSimple")}
           description={t("description.ecommerceSimple")}
-          subName="React Typescript"
-          link="https://github.com/peterdinis/React-Eshop-Frontend"
+          subName="Vue Typescript"
+          link="https://github.com/peterdinis/Vue-Eshop-Frontend"
           firstLinkName="Github"
         />
 
