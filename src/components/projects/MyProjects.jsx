@@ -60,7 +60,7 @@ const MyProjects = () => {
         <Project
           name={t("description.ecommerceSimple")}
           description={t("description.ecommerceSimple")}
-          subName="React Typescript"
+          subName="React Typescript React-Query"
           link="https://github.com/peterdinis/React-Shop-Frontend"
           firstLinkName="Github"
         />
@@ -68,7 +68,7 @@ const MyProjects = () => {
         <Project
           name={t("description.ecommerceSimple")}
           description={t("description.ecommerceSimple")}
-          subName="Goolang"
+          subName="Goolang Postgresql"
           link="https://github.com/peterdinis/Goolng-Shop-Api"
           firstLinkName="Github"
         />
