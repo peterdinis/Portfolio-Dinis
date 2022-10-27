@@ -12,16 +12,8 @@ const MyProjects = () => {
         <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React Typescript React Query Tailwind"
-          link="https://github.com/peterdinis/Spst-Kniznica-Client"
-          firstLinkName="Github"
-        />
-
-        <Project
-          name={t("description.projectTwo")}
-          description={t("description.projectTwoD")}
-          subName="Nestjs Postgresql"
-          link="https://github.com/peterdinis/Spst-Kniznica-Server"
+          subName="React Typescript React Query Nestjs NX"
+          link="https://github.com/peterdinis/Spst-App-Monorepo"
           firstLinkName="Github"
         />
 
