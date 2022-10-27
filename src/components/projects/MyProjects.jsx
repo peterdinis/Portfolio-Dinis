@@ -33,6 +33,14 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
+        <Project 
+          name={t("description.faceSocialSite")}
+          description={t("description.faceBookClone")}
+          subName="Django Postgresql"
+          link="https://github.com/peterdinis/Django-Social-Site"
+          firstLinkName="Github"
+        />
+
         <Project
           name={t("description.disneyClone")}
           description={t("description.disneyClone")}
