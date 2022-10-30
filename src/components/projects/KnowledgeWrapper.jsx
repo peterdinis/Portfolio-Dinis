@@ -36,7 +36,7 @@ function KnowledgeWrapper() {
 
   return (
     <>
-      <h1 className="text-center text-4xl text-black mt-6">
+      <h1 className="text-red-900 text-center text-4xl text-black mt-6">
         {t("description.knowledge")}
       </h1>
       <div className="buttonWrapper">

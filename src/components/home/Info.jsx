@@ -26,7 +26,7 @@ function Info() {
               <p className="leading-relaxed text-2xl m-3 text-gray-700">
                 {t("description.secondSentence")}
               </p>
-              <p className="leading-relaxed text-3xl text-gray-700 mt-6">
+              <p className="text-red-900 leading-relaxed text-3xl text-gray-700 mt-6">
                 {t("description.favoriteStack")}
                 <div className="mt-1">
                   <Images />

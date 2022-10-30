@@ -10,7 +10,7 @@ function ContactInfo() {
     <div className="mt-1">
       <div>
         <Paper elevation={3}>
-          <h1 className="infoHead">Email</h1>
+          <h1 className="infoHead text-red-900">Email</h1>
           <p className="infoEmail">
             {t("description.emailInfo")}:{" "}
             <Mailto href="mailto:pdinis1@gmail.com">pdinis1@gmail.com</Mailto>
