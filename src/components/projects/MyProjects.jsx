@@ -9,7 +9,7 @@ const MyProjects = () => {
         {t("description.myProjects")}
       </h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
-      <Project
+        <Project
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
           subName="React Typescript React Query Tailwind"
@@ -41,7 +41,7 @@ const MyProjects = () => {
           firstLinkName="Github"
         />
 
-        <Project 
+        <Project
           name={t("description.faceSocialSite")}
           description={t("description.faceBookClone")}
           subName="Django Postgresql"
