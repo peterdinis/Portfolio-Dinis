@@ -34,22 +34,6 @@ const MyProjects = () => {
         />
 
         <Project
-          name={t("description.socialGraphql")}
-          description={t("description.socialGraphql")}
-          subName="React Typescript Asp.NET"
-          link="https://github.com/peterdinis/Social-Site-React-C-Sharp"
-          firstLinkName="Github"
-        />
-
-        <Project
-          name={t("description.faceSocialSite")}
-          description={t("description.faceBookClone")}
-          subName="Django Postgresql"
-          link="https://github.com/peterdinis/Django-Social-Site"
-          firstLinkName="Github"
-        />
-
-        <Project
           name={t("description.ecommerceSimple")}
           description={t("description.ecommerceSimple")}
           subName="Nextjs Typescript Tailwind Firebase"
