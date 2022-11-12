@@ -9,19 +9,12 @@ const MyProjects = () => {
         {t("description.myProjects")}
       </h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
-        <Project
+        
+        <Project 
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="React Typescript React Query Tailwind"
-          link="https://github.com/peterdinis/Spst-Kniznica-Client"
-          firstLinkName="Github"
-        />
-
-        <Project
-          name={t("description.projectTwo")}
-          description={t("description.projectTwoD")}
-          subName="Nestjs Postgresql"
-          link="https://github.com/peterdinis/Spst-Kniznica-Server"
+          subName="Nx React Nestjs Typescript"
+          link="https://github.com/peterdinis/Spst-Kniznica-NX"
           firstLinkName="Github"
         />
 
@@ -38,6 +31,14 @@ const MyProjects = () => {
           description={t("description.ecommerceSimple")}
           subName="Nextjs Typescript Tailwind Firebase"
           link="https://github.com/peterdinis/Next-Food-Delivery-App"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name={t("description.insta")}
+          description={t("description.insta")}
+          subName="Nx React Node Typescript Mongodb"
+          link="https://github.com/peterdinis/Devstagram"
           firstLinkName="Github"
         />
       </div>
