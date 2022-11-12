@@ -10,13 +10,22 @@ const MyProjects = () => {
       </h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
         
-        <Project 
+      <Project 
           name={t("description.projectOne")}
           description={t("description.projectOneD")}
-          subName="Nx React Nestjs Typescript"
-          link="https://github.com/peterdinis/Spst-Kniznica-NX"
+          subName="React Typescript React Query Tailwind"
+          link="https://github.com/peterdinis/Spst-Kniznica-Client"
           firstLinkName="Github"
         />
+
+<Project
+          name={t("description.projectTwo")}
+          description={t("description.projectTwoD")}
+          subName="Nestjs Postgresql"
+          link="https://github.com/peterdinis/Spst-Kniznica-Server"
+          firstLinkName="Github"
+        />
+
 
         <Project
           name="Node Typescript Template"

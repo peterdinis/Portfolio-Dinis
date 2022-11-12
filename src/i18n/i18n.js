@@ -104,7 +104,7 @@ i18n
             sevenDesc: "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
           },
         },
-      },
+      }, 
     },
   });
 
