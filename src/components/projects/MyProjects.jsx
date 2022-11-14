@@ -32,15 +32,6 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
-
-        <Project
-          name={t("description.ecommerceSimple")}
-          description={t("description.ecommerceSimple")}
-          subName="Nextjs Typescript Tailwind Firebase"
-          link="https://github.com/peterdinis/Next-Food-Delivery-App"
-          firstLinkName="Github"
-        />
-
         <Project
           name={t("description.insta")}
           description={t("description.insta")}
