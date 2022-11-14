@@ -32,6 +32,7 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
+        
         <Project
           name={t("description.insta")}
           description={t("description.insta")}
