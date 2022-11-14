@@ -17,7 +17,6 @@ i18n
       en: {
         translation: {
           description: {
-            disneyClone: "Disney+ clone",
             ecommerceSimple: "Online shop for selling foods",
             foo: "Online food shop",
             eshopAPI: "API for online shop",
@@ -36,6 +35,7 @@ i18n
             projectSixD: "Photo upload app user can upload photos plus authentication",
             projectSevenD: "Crud photos plus full authentication",
             work: "My work experience",
+            libraryApp: "A simple library application",
             snakeGame: "Snake web game",
             snakeDesc: "Online web game snake",
             workOne: "(1-year) School library project Unicorn React-Node-MongoDB - (uuapp)",
@@ -54,8 +54,6 @@ i18n
             foodClient: "Application for ordering food",
             foodApp: "Application for ordering food online",
             foodAppAPI: "Api to online food ordering apps",
-            faceSocialSite: "Facebook social site",
-            faceBookClone: "Facebook clone",
             sevenDesc: "A simple control panel administrator can add customer books and issues and see questions from page users",
             uuappText: "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
           },
@@ -67,6 +65,7 @@ i18n
           description: {
             ecommerceSimple: "Online shop na objednávanie jedla",
             snakeDesc: "Online webová hra had",
+            libraryApp: "Jednoduchá knižničná aplikácia",
             snakeGame: "Webová hra had",
             nodeT: "Jednoduchá template pre prácu z nodejs a typescript",
             foodApp: "Applikácia kde na objednávanie jedál online",
@@ -98,8 +97,6 @@ i18n
             knowledge: "Moje znalosti",
             emailInfo: "Ak ťa moja tvorba zaujala tak mi napíš na",
             uuappHeader: "Čo je uuapp",
-            faceSocialSite: "Facebook sociálna sieť",
-            faceBookClone: "Klon stránky facebook",
             uuappText: "Tento projekt bol robený počas strednej školy. Firma unicorn vyhlásila súťaž a školu ktorú som navštívil sa prihlásiť. Za pomoci ich frameworku sme mali vytvoriť stránku.Ich framework je postavený na princípe React Node Mongodb (Upravená verzia)",
             sevenDesc: "Jednoduchý dashboard admin vie pridať knihy zákazníkov a problémy a vidí otázky používateľov stránky",
           },

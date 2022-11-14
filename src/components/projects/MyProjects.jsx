@@ -32,7 +32,7 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Node-Typescript-Starter"
           firstLinkName="Github"
         />
-        
+
         <Project
           name={t("description.insta")}
           description={t("description.insta")}
@@ -46,6 +46,14 @@ const MyProjects = () => {
           description={t("description.instaBE")}
           subName="Node Typescript Mongodb Jest"
           link="https://github.com/peterdinis/Devstagram"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name={t("description.libraryApp")}
+          description={t("description.libraryApp")}
+          subName="Python Django Html Css Js Postgresql"
+          link="https://github.com/peterdinis/Django-Library-App"
           firstLinkName="Github"
         />
       </div>
