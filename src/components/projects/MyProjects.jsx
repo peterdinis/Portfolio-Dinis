@@ -41,6 +41,14 @@ const MyProjects = () => {
           link="https://github.com/peterdinis/Django-Library-App"
           firstLinkName="Github"
         />
+
+        <Project 
+          name={t("description.foodApp")}
+          description={t("description.foodApp")}
+          subName="Node Typescript Mongodb Ejs"
+          link="https://github.com/peterdinis/Node-Pizza-Website"
+          firstLinkName="Github"
+        />
       </div>
     </div>
   );
