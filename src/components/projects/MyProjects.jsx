@@ -35,18 +35,18 @@ const MyProjects = () => {
         />
 
         <Project 
-          name={t("description.libraryApp")}
-          description={t("description.libraryApp")}
-          subName="Python Django Html Css Js Postgresql"
-          link="https://github.com/peterdinis/Django-Library-App"
-          firstLinkName="Github"
-        />
-
-        <Project 
           name={t("description.foodApp")}
           description={t("description.foodApp")}
           subName="Node Typescript Mongodb Ejs"
           link="https://github.com/peterdinis/Node-Pizza-Website"
+          firstLinkName="Github"
+        />
+
+        <Project 
+          name={t("description.projectOne")}
+          description={t("description.projectOneD")}
+          subName="Nx React Nestjs Prisma"
+          link="https://github.com/peterdinis/Spst-Kniznica"
           firstLinkName="Github"
         />
       </div>

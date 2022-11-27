@@ -86,7 +86,7 @@ i18n
             newProjectTwo: "Frontend k e-commerce-app",
             newProjectThree: "Api k e-commerce-app",
             projectOne: "Spšt Knižnica",
-            projectOneD: "Frontend kopia školského projektu online webovej knižnice",
+            projectOneD: "Kkopia školského projektu online webová knižnica",
             projectTwo: "Backend API ku školskej knižnici",
             projectTwoD: "Backend Api kopia školského projektu",
             projectFourD: "Webová hra hadík",
