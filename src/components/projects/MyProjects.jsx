@@ -25,8 +25,8 @@ const MyProjects = () => {
 
         <Project
           name={t("description.insta")}
-          subName="React Nestjs Typescript Nx"
-          link="https://github.com/peterdinis/DevStagram-NX"
+          subName="NextJs Typescript Chakra UI Supabase"
+          link="https://github.com/peterdinis/Next-Social-Site"
           firstLinkName="Github"
         />
 
