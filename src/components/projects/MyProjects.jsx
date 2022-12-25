@@ -25,15 +25,15 @@ const MyProjects = () => {
 
         <Project
           name={t("description.insta")}
-          subName="NextJs Typescript Chakra UI Supabase"
+          subName="NextJs Typescript Chakra UI Firebase"
           link="https://github.com/peterdinis/Next-Social-Site"
           firstLinkName="Github"
         />
 
-        <Project
-          name={t("description.tiktok")}
-          subName="NextJs Typescript Trpc"
-          link="https://github.com/peterdinis/NextJS-TikTok"
+        <Project 
+          name={t("description.reddit")}
+          subName="Nextjs Typescript Firebase Chakra UI"
+          link="https://github.com/peterdinis/Reddit-NextJs"
           firstLinkName="Github"
         />
       </div>
