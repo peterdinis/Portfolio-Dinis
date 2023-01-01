@@ -5,7 +5,7 @@ const MyProjects = () => {
   const { t } = useTranslation();
   return (
     <div className="mt-1">
-      <h1 className="text-red-900 text-center mt-4 text-4xl">
+      <h1 className="text-center mt-4 text-4xl">
         {t("description.myProjects")}
       </h1>
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
@@ -24,16 +24,44 @@ const MyProjects = () => {
         />
 
         <Project
+          name={t("description.oldProject")}
+          subName="React Javascript Tailwind"
+          link="https://github.com/peterdinis/Portfolio-Dinis"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.reddit")}
+          subName="Nextjs Typescript Firebase Chakra UI"
+          link="https://github.com/peterdinis/Reddit-NextJs"
+          firstLinkName="Github"
+        />
+
+        <Project
           name={t("description.insta")}
-          subName="NextJs Typescript Chakra UI Firebase"
+          subName="NextJs Typescript Graphql Tailwind"
           link="https://github.com/peterdinis/Next-Social-Site"
           firstLinkName="Github"
         />
 
-        <Project 
-          name={t("description.reddit")}
-          subName="Nextjs Typescript Firebase Chakra UI"
-          link="https://github.com/peterdinis/Reddit-NextJs"
+        <Project
+          name={t("description.instaBE")}
+          subName="Nestjs Prisma Graphql"
+          link="https://github.com/peterdinis/Nestjs-Graphql-SocialSite-API"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.foodApp")}
+          subName="Nextjs React-Query Material UI"
+          link="https://github.com/peterdinis/Next-Shop-Frontend"
+          firstLinkName="Github"
+        />
+
+        <Project
+          name={t("description.foodAppAPI")}
+          subName="Asp.NET Postgresql C#"
+          link="https://github.com/peterdinis/C-Sharp-Shop-API"
           firstLinkName="Github"
         />
       </div>
