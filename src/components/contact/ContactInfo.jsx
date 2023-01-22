@@ -8,7 +8,6 @@ function ContactInfo() {
   const { t } = useTranslation();
   return (
     <div className="mt-1">
-      <div>
         <Paper elevation={3}>
           <h1 className="infoHead text-red-900">Email</h1>
           <p className="infoEmail">
@@ -17,7 +16,6 @@ function ContactInfo() {
           </p>
           <Links />
         </Paper>
-      </div>
     </div>
   );
 }
