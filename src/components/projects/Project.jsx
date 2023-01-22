@@ -1,3 +1,5 @@
+import React from "react";
+
 function Project(props) {
   return (
     <div className="col-span-4 sm:col-span-4 md:col-span-2 lg:col-span-1 xl:col-span-1 flex flex-col items-center">
@@ -8,9 +10,6 @@ function Project(props) {
               {props.name}
             </h1>
             <p className="hover:cursor-pointer text-2xl py-3 text-gray-600 leading-6">
-              {props.description}
-            </p>
-            <p className="hover:cursor-pointer  text-2xl py-3 text-gray-600 leading-6">
               {props.subName}
             </p>
             <button className="border border-green-500 bg-green-500 text-white rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:bg-green-600 focus:outline-none focus:shadow-outline">
@@ -23,6 +22,7 @@ function Project(props) {
                 {props.firstLinkName}
               </a>
             </button>
+            {props.children}
           </div>
         </div>
       </div>
