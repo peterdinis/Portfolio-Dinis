@@ -11,7 +11,7 @@ const MyProjects = () => {
       <div className="mt-6 px-10 grid grid-cols-4 gap-4">
         <Project
           name={t("description.projectOne")}
-          subName="Nx React Nestjs Prisma"
+          subName="C# Asp.NET Mvc"
           link="https://github.com/peterdinis/Spst-Kniznica"
           firstLinkName="Github"
         />
@@ -43,19 +43,6 @@ const MyProjects = () => {
         </Project>
 
         <Project
-          name={t("description.insta")}
-          subName="React Typescript Material UI"
-          link="https://github.com/peterdinis/Instagram-Clone-UI"
-          firstLinkName="Github"
-        />
-        <Project
-          name={t("description.instaBE")}
-          subName="Asp.NET Postgresql"
-          link="https://github.com/peterdinis/Instagram-Clone-API"
-          firstLinkName="Github"
-        />
-
-        <Project
           name={t("description.spotify")}
           subName="Nextjs Tailwind Firebase"
           link="https://github.com/peterdinis/Spotify-Next"
@@ -63,11 +50,17 @@ const MyProjects = () => {
         />
 
         <Project
-          name={t("description.ecommerceSimple")}
-          subName="React Typescript Tailwind Redux"
+          name={t("description.foo")}
+          subName="React Typescript Tailwind"
           link="https://github.com/peterdinis/React-Eshop"
           firstLinkName="Github"
-        />
+        >
+           {/* <button className="border border-red-500 bg-red-500 text-white rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:bg-red-600 focus:outline-none focus:shadow-outline">
+            <a className="text-2xl" href="https://food-shop-react.vercel.app/">
+              Website
+            </a>
+          </button> */}
+        </Project>
       </div>
     </div>
   );
