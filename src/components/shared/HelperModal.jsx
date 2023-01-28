@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Modal from "@material-ui/core/Modal";
 import { useTranslation } from "react-i18next";
-import {useStyles, getModalStyle} from "./styles";
+import { useStyles, getModalStyle } from "./styles";
 
 export default function SimpleModal() {
   const { t } = useTranslation();

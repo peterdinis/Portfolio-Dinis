@@ -1,7 +1,4 @@
-import {
-  makeStyles,
-  createStyles
-} from "@material-ui/core/styles";
+import { makeStyles, createStyles } from "@material-ui/core/styles";
 
 function rand() {
   return Math.round(Math.random() * 20) - 10;

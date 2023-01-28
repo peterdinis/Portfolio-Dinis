@@ -16,7 +16,9 @@ export default function TimeLine() {
   return (
     <div className="pt-2">
       <Paper elevation={3}>
-        <h1 className="text-center text-red-900 text-4xl mt-4">{t("description.work")}</h1>
+        <h1 className="text-center text-red-900 text-4xl mt-4">
+          {t("description.work")}
+        </h1>
         <Timeline className={classes.timeline} align="alternate">
           <TimelineItem>
             <TimelineSeparator>
