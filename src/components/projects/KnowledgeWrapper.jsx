@@ -8,12 +8,12 @@ import "./Knowledge.css";
 import { useTranslation } from "react-i18next";
 import KnowledgeCard from "./KnowledgeCard";
 import reactLogo from "../../images/react.png";
-import typescriptLogo from "../../images/typescript.png"
-import queryLogo from "../../images/query.svg"
+import typescriptLogo from "../../images/typescript.png";
+import queryLogo from "../../images/query.svg";
 import javascriptLogo from "../../images/javascript.png";
-import nestjsLogo from "../../images/nestjs.svg"
+import nestjsLogo from "../../images/nestjs.svg";
 import pgLogo from "../../images/pg.png";
-import firebase from "../../images/firebase.png"
+import firebase from "../../images/firebase.png";
 import htmlLogo from "../../images/html.png";
 import cssLogo from "../../images/css.png";
 import jestLogo from "../../images/jest.png";
@@ -70,18 +70,18 @@ function KnowledgeWrapper() {
 
       <div>
         <div className="w-full grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-        <KnowledgeCard image={reactLogo} name="React" />
-        <KnowledgeCard image={typescriptLogo} name="Typescript" />
-        <KnowledgeCard image={queryLogo} name="React-Query" />
-        <KnowledgeCard image={javascriptLogo} name="Javascript" />
-        <KnowledgeCard image={nestjsLogo} name="Nestjs" />
-        <KnowledgeCard image={pgLogo} name="Postgresql" />
-        <KnowledgeCard image={firebase} name="Firebase" />
-        <KnowledgeCard image={htmlLogo} name="Html" />
-        <KnowledgeCard image={cssLogo} name="Css" />
-        <KnowledgeCard image={nextLogo} name="Nextjs" />
-        <KnowledgeCard image={jestLogo} name="Jest" />
-        <KnowledgeCard image={netLogo} name="ASP.NET" />
+          <KnowledgeCard image={reactLogo} name="React" />
+          <KnowledgeCard image={typescriptLogo} name="Typescript" />
+          <KnowledgeCard image={queryLogo} name="React-Query" />
+          <KnowledgeCard image={javascriptLogo} name="Javascript" />
+          <KnowledgeCard image={nestjsLogo} name="Nestjs" />
+          <KnowledgeCard image={pgLogo} name="Postgresql" />
+          <KnowledgeCard image={firebase} name="Firebase" />
+          <KnowledgeCard image={htmlLogo} name="Html" />
+          <KnowledgeCard image={cssLogo} name="Css" />
+          <KnowledgeCard image={nextLogo} name="Nextjs" />
+          <KnowledgeCard image={jestLogo} name="Jest" />
+          <KnowledgeCard image={netLogo} name="ASP.NET" />
         </div>
       </div>
     </>
