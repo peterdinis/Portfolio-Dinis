@@ -19,6 +19,7 @@ import cssLogo from "../../images/css.png";
 import jestLogo from "../../images/jest.png";
 import nextLogo from "../../images/next-js.svg";
 import netLogo from "../../images/net.png";
+import expressLogo from "../../images/express.png";
 
 function KnowledgeWrapper() {
   const [open, setOpen] = useState(false);
@@ -82,6 +83,7 @@ function KnowledgeWrapper() {
           <KnowledgeCard image={nextLogo} name="Nextjs" />
           <KnowledgeCard image={jestLogo} name="Jest" />
           <KnowledgeCard image={netLogo} name="ASP.NET" />
+          <KnowledgeCard image={expressLogo} name="Express" />
         </div>
       </div>
     </>
