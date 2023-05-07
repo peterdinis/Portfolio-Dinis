@@ -54,7 +54,7 @@ i18n
             descriptionThree:
               "The company where I worked creates an e‑shop where licenses for various software products can be sold. There are different roles in the eshop (seller, buyer, supplier, distributor). In the beginning, in order to be able to buy something on the eshop called superlicensor, I had to buy a superlicensor paid license. I was a member of the 7 team that worked on that application). Technologies used Vuejs Nestjs Typescript Docker Postgresql Jest.",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
-            workFour: "(11-Months) Navisys s.r.o",
+            workFour: "(11-Months) Navisys s.r.o Navisys s.r.o Nestjs Postgresql Nx Jest",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             instaBE: "Api for instagram application",
@@ -67,6 +67,7 @@ i18n
             newProjectThree: "API for foodStore e-commerce app",
             foodAPI: "API for online food ordering",
             foodClient: "Application for ordering food",
+            contactMe: "If you are interested in my work, write to my email",
             foodApp: "Application for ordering food online",
             foodAppAPI: "Api to online food ordering apps",
             netflix: "Netflix website copy",
@@ -86,6 +87,7 @@ i18n
             twitter: "Klon webstránky Twitter",
             ecommerceSimple: "Online shop na predaj oblečenia",
             snakeDesc: "Online webová hra had",
+            contactMe: "Ak ťa moja tvorba zaujala napíš mi na môj email",
             netflix: "Kópia stránky netflix",
             netflixAPI: "API pre netlifx applikáciu",
             gmailClone: "Klon stránky gmail",
@@ -105,7 +107,7 @@ i18n
             instaBE: "API pre applikáciu instagram",
             oldProject: "Moje staré portfolio",
             aboutMe: "Pár viet o mne",
-            workFour: "(11-Mesiacov) Navisys s.r.o",
+            workFour: "(11-Mesiacov) Navisys s.r.o Nestjs Postgresql Nx Jest",
             firstSentence:
               "Ahoj Volám sa Peter Dinis. Mám 22 rokov. Pochádzam z Bardejova. Naštevoval som Strednú priemyselnú školu technickú(SPŠT) v Bardejove. Medzi moje záujmy patrí futbal, volejbal.",
             secondSentence:

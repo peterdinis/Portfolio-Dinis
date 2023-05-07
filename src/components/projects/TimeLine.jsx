@@ -51,7 +51,7 @@ export default function TimeLine() {
 
           <TimelineItem>
             <TimelineSeparator>
-              <TimelineDot color="secondary" />
+              <TimelineDot color="primary" />
               <TimelineConnector />
             </TimelineSeparator>
             <TimelineContent className="text-2xl">
