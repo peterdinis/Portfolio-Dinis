@@ -31,6 +31,7 @@ i18n
               "I have the most experience with technologies: React Nestjs and Typescript Node.",
             favoriteStack: "My favorite stack",
             myProjects: "Some of my projects",
+            customEditor: "Simple Html Css Js editor for writing code",
             projectOne: "Spst Library",
             projectOneD: "Copy of the school project web library",
             projectTwo: "Backend API for SPST Library",
@@ -55,7 +56,8 @@ i18n
             descriptionThree:
               "The company where I worked creates an e‑shop where licenses for various software products can be sold. There are different roles in the eshop (seller, buyer, supplier, distributor). In the beginning, in order to be able to buy something on the eshop called superlicensor, I had to buy a superlicensor paid license. I was a member of the 7 team that worked on that application). Technologies used Vuejs Nestjs Typescript Docker Postgresql Jest.",
             workTwo: "(3-weeks) Erasmus Company Think Easy React.js",
-            workFour: "(11-Months) Navisys s.r.o Navisys s.r.o Nestjs Postgresql Nx Jest",
+            jumpSoft: "Company's internal development platform and language (Twinzu), Java, Javascript, PostgreSQL, GitLab, Docker. Projects I work on: 1. Slovak Chamber of Tax Advisors. 2. UDZS Office for Health Care Supervision",
+            workFour: "(11-Months) Navisys s.r.o  Nestjs Postgresql Nx Jest",
             workThree: "(3-Months) Company Think Easy React.js Typescript",
             knowledge: "My knowledge",
             instaBE: "Api for instagram application",
@@ -76,8 +78,10 @@ i18n
             simpleFoodShop: "Application for buying food online",
             graphTalkFE: "Social site graphTalk",
             spotify: "Spotify website clone",
+            onlineSite: "Website",
             sevenDesc:
               "A simple control panel administrator can add customer books and issues and see questions from page users",
+            zoom_mate: "Online application for speed dating",
             uuappText:
               "This project was done during high school. The unicorn company announced a competition and the school I visited to apply. With the help of their framework we had to create a page. Their framework is based on the principle of React Node Mongodb (Modified version)",
           },
@@ -87,10 +91,14 @@ i18n
       sk: {
         translation: {
           description: {
+            zoom_mate: "Online applikácia na rýchle rande",
+            jumpSoft: "Interná vývojová platforma a jazyk spoločnosti (Twinzu), Java, Javascript, PostgreSQL, GitLab, Docker. Projekty, na ktorých pracujem: 1. Slovenská komora daňových poradcov. 2. Úrad pre dohľad nad zdravotnou starostlivosťou UDZS",
             graphTalkFE: "Socialná sieť graphTalk",
             simpleFoodShop: "Applikácia na objednávanie jedál",
             barberShop: "Aplikácia pre holičstvo používateľ si vie objednať termín o hoľiča",
             twitter: "Klon webstránky Twitter",
+            onlineSite: "Webstránka",
+            customEditor: "Jednoduchý Html, Css, Js editor pre písanie kódu",
             ecommerceSimple: "Online shop na predaj oblečenia",
             snakeDesc: "Online webová hra had",
             contactMe: "Ak ťa moja tvorba zaujala napíš mi na môj email",
