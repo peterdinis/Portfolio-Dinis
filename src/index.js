@@ -4,10 +4,12 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./i18n/i18n";
+import ScrollToTop from "react-scroll-to-top";
 
 ReactDOM.render(
   <StrictMode>
     <App />
+    <ScrollToTop smooth={true} />
   </StrictMode>,
   document.getElementById("root")
 );
